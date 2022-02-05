@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><JednostkaMikro xmlns="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMikroWZlotych" xmlns:dtsf="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/" xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2016/01/25/eD/DefinicjeTypy/" xmlns:jin="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaInnaStruktury" xmlns:jma="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury" xmlns:jmi="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMikroStruktury" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMikroWZlotych https://www.gov.pl/documents/2034621/2182793/JednostkaMikroWZlotych(1)_v1-2.xsd"> 
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><JednostkaMala xmlns="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych" xmlns:dtsf="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/DefinicjeTypySprawozdaniaFinansowe/" xmlns:etd="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2016/01/25/eD/DefinicjeTypy/" xmlns:jin="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaInnaStruktury" xmlns:jma="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaStruktury" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mf.gov.pl/schematy/SF/DefinicjeTypySprawozdaniaFinansowe/2018/07/09/JednostkaMalaWZlotych https://www.gov.pl/documents/2034621/2182793/JednostkaMalaWZlotych(1)_v1-2.xsd"> 
 <!-- Plik wygenerowany z programu Sprawozdanie finansowe wersja 1129 20.03 www.oddk.pl -->
 	<Naglowek>
 		<dtsf:OkresOd>2020-01-01</dtsf:OkresOd>
 		<dtsf:OkresDo>2020-12-31</dtsf:OkresDo>
 		<dtsf:DataSporzadzenia>2021-06-30</dtsf:DataSporzadzenia>
-		<jmi:KodSprawozdania kodSystemowy="SFJMIZ (1)" wersjaSchemy="1-2">SprFinJednostkaMikroWZlotych</jmi:KodSprawozdania>
-		<jmi:WariantSprawozdania>1</jmi:WariantSprawozdania>
+		<jma:KodSprawozdania kodSystemowy="SFJMAZ (1)" wersjaSchemy="1-2">SprFinJednostkaMalaWZlotych</jma:KodSprawozdania>
+		<jma:WariantSprawozdania>1</jma:WariantSprawozdania>
 	</Naglowek>
-	<InformacjeOgolneJednostkaMikro>
+	<WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala>
 		<P_1>
 			<P_1A>
-				<dtsf:NazwaFirmy>TROPIC SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</dtsf:NazwaFirmy>
+				<dtsf:NazwaFirmy>TROPIC SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA</dtsf:NazwaFirmy>
 				<dtsf:Siedziba>
 					<dtsf:Wojewodztwo>Mazowieckie</dtsf:Wojewodztwo>
 					<dtsf:Powiat>Warszawski Zachodni</dtsf:Powiat>
@@ -24,245 +24,465 @@
 					<dtsf:Wojewodztwo>Mazowieckie</dtsf:Wojewodztwo>
 					<dtsf:Powiat>Warszawski Zachodni</dtsf:Powiat>
 					<dtsf:Gmina>Stare Babice</dtsf:Gmina>
-					<dtsf:Ulica>Bugaj</dtsf:Ulica>
+					<dtsf:Ulica>Bugaj </dtsf:Ulica>
 					<dtsf:NrDomu>11</dtsf:NrDomu>
 					<dtsf:Miejscowosc>Koczargi Nowe</dtsf:Miejscowosc>
 					<dtsf:KodPocztowy>05-082</dtsf:KodPocztowy>
 					<dtsf:Poczta>Stare Babice</dtsf:Poczta>
 				</dtsf:Adres>
 			</P_1B>
-			<P_1C>1182129785</P_1C>
-			<P_1D>0000637481</P_1D>
+			<P_1C>1182131397</P_1C>
+			<P_1D>0000642339</P_1D>
 		</P_1>
 		<P_3>
 			<dtsf:DataOd>2020-01-01</dtsf:DataOd>
 			<dtsf:DataDo>2020-12-31</dtsf:DataDo>
 		</P_3>
-		<P_4>SPRAWOZDANIE FINANSOWE
-
-ZA ROK OBROTOWY 2020
-
-
-
-
-
-SPORZĄDZONE ZGODNIE Z ZAŁĄCZNIKIEM NR 4
-DO USTAWY O RACHUNKOWOŚCI DLA JEDNOSTEK MIKRO
-Stosownie do artykułu 52 ustawy o rachunkowości z dnia 29 września 1994 roku z późniejszymi zmianami, Zarząd Spółki Tropic spółka z ograniczoną odpowiedzialnością przedstawia sprawozdanie finansowe za rok kończący się 31.12.2017, na które składa się:
-
-" Bilans sporządzony na dzień 31.12.2018,
-" Rachunek zysków i strat za okres od 01.01.2018 do 31.12.2018,
-" Informacja dodatkowa, obejmująca informacje ogólne oraz informacje uzupełniające do bilansu.
-
-Sprawozdanie finansowe sporządzone zostało zgodnie z przedstawionymi zasadami ustawy 
-o rachunkowości oraz rzetelnie i jasno przedstawia sytuację majątkową i finansową oraz wynik finansowy.
-1. Dane podstawowe
-Firma działa pod nazwą Tropic spółka z ograniczoną odpowiedzialnością z siedzibą Koczargach Nowych ul. Bugaj 11 05-082 Stare Babice.
-
-Firma została zarejestrowana w dniu 19.09.2016 roku przez Sąd Rejonowy w Warszawie XIV Wydział Gospodarczy pod numerem KRS 0000637481.
-2. Czas trwania Jednostki
-Czas trwania Jednostki zgodnie z umową jest nieoznaczony.
-3. Okres objęty sprawozdaniem
-Jednostka prezentuje sprawozdanie finansowe za rok obrotowy 2018 
-
-Kontynuacja działalności
-Sprawozdanie finansowe zostało sporządzone przy założeniu kontynuowania działalności gospodarczej przez Jednostkę w dającej się przewidzieć przyszłości, obejmującej okres nie krótszy niż jeden rok od dnia bilansowego, w niezmniejszonym istotnie zakresie. Nie istnieją również okoliczności wskazujące na zagrożenie kontynuowania działalności.
-
+		<P_4>3. Uproszczenia przewidziane dla małych jednostek zastosowane w sprawozdaniu finansowym 
+" Jednostka przedstawia informacje dodatkowe i uzupełniające do bilansu zgodnie 
+z załącznikiem nr 5 do ustawy.
+" Jednostka odstąpiła od sporządzania zestawienia zmian w kapitale własnym na podstawie art. 48a,  ust. 4.
+" Jednostka odstąpiła od sporządzania rachunku przepływów pieniężnych na podstawie 
+art. 48b, ust.5.
+" Jednostka nie sporządza sprawozdania z działalności na podstawie z art. 49 pkt.5 i 6 ustawy 
+o rachunkowości  .
+" Jednostka odstąpiła od ustalania aktywów i pasywów z tytułu odroczonego podatku dochodowego na podstawie Art.37 ust.10.
+" Jednostka odstąpiła, na podstawie art. 28b ust. 1 ustawy o rachunkowości, od stosowania przepisów określonych w art. 81 ust. 2 pkt 4 w sprawie szczegółowych zasad uznawania, metod wyceny, zakresu ujawnienia i sposobu prezentacji instrumentów finansowych.
 </P_4>
 		<P_5>
 			<P_5A>true</P_5A>
 			<P_5B>true</P_5B>
 		</P_5>
 		<P_6>
-			<P_6A>Stosowane metody i zasady rachunkowości
-Sprawozdanie finansowe zostało przygotowane zgodnie z wymogami ustawy z dnia 29 września 1994 roku o rachunkowości obowiązującymi jednostki kontynuujące działalność.
+			<P_6A>Wartości niematerialne i prawne oraz rzeczowe aktywa trwałe   
+Wartość początkową środków trwałych i WNiP ujmuje się w księgach według cen nabycia lub kosztów wytworzenia, pomniejszonych o odpisy amortyzacyjne (umorzeniowe), a także 
+o odpisy z tytułu trwałej utraty ich wartości. Wartość początkowa środków trwałych 
+i dotychczas dokonane odpisy amortyzacyjne podlegają aktualizacjom na podstawie odrębnych przepisów. 
+Cena nabycia i koszt wytworzenia środków trwałych i WNiP obejmuje ogół kosztów poniesionych przez jednostkę za okres ich budowy, montażu, przystosowania 
+i ulepszenia, do dnia bilansowego lub przyjęcia do używania, w tym również:
+-  nie podlegający odliczeniu podatek od towarów i usług oraz podatek akcyzowy,
 
-Wynik finansowy Jednostki za dany rok obrotowy obejmuje wszystkie osiągnięte i przypadające na jej rzecz przychody oraz związane z tymi przychodami koszty zgodnie z zasadami memoriału, współmierności przychodów i kosztów oraz ostrożnej wyceny.
+Wartość początkową stanowiącą cenę nabycia lub koszt wytworzenia środka trwałego powiększają koszty jego ulepszenia, polegającego na przebudowie, rozbudowie, modernizacji lub rekonstrukcji, powodującego, że wartość użytkowa tego środka po zakończeniu ulepszenia przewyższa posiadaną przy przyjęciu do używania wartość użytkową.
+
+Środki trwałe i WNiP, są amortyzowane metodą liniową w okresie odpowiadającym szacowanemu okresowi ich ekonomicznej użyteczności. Rozpoczęcie amortyzacji następuje nie wcześniej niż po przyjęciu środka trwałego do używania. 
+
+Spółka nie korzysta z uproszczeń przewidzianych w art. 32 ust. 6 pozwalających ustalać odpisy amortyzacyjne lub umorzeniowe poprzez dokonywanie zbiorczych odpisów dla grup środków trwałych zbliżonych rodzajem i przeznaczeniem. 
+
+Spółka korzysta z uproszczeń przewidzianych w art. 32 ust. 6 i odpisuje jednorazowo nabyty składnik w ciężar wyniku finansowego jeśli wartość jego nabycia nie przekracza kwoty 10000,00zł netto. Powyższe nie wywiera istotnie ujemnego wpływu na rzetelne 
+i jasne przedstawienie sytuacji majątkowej i finansowej oraz wyniku finansowego Spółki.
+"	Aktywa obrotowe
+"	Rzeczowe składniki aktywów obrotowych - wycenia się według cen zakupu lub kosztów wytworzenia nie wyższych od cen ich sprzedaży netto na dzień bilansowy, z tym że:
+-	materiały i towary Spółka wycenia według cen zakupu,  
+Ewentualne odpisy aktualizujące wartość rzeczowych składników majątku obrotowego dokonane w związku z trwałą utratą ich wartości lub spowodowane wyceną doprowadzającą ich wartość do cen sprzedaży netto możliwych do uzyskania, pomniejszają wartość pozycji w bilansie i zalicza się je odpowiednio do pozostałych kosztów.
+Rozchody składników majątku obrotowego uznanych za jednakowe ze względu na podobieństwo ich rodzaju i przeznaczenie a różniących się ceną zakupu Spółka wycenia przyjmując dla ustalenia rozchodu metodę FIFO.
+	Należności krótkoterminowe wycenia się w kwocie wymaganej zapłaty, z zachowaniem zasady ostrożnej wyceny.
+
+Należności z tytułu dostaw i usług kwalifikuje się do należności krótkoterminowych bez względu na termin ich wymagalności.
+
+Należności wyrażone w walutach obcych wykazuje się na dzień bilansowy po przeliczeniu waluty obcej na PLN po kursie średnim NBP z dnia bilansowego.
+
+Wyrażone w walutach obcych operacje gospodarcze wycenia się według: 
+
+-	faktycznie zastosowanego kursu w tym dniu,
 </P_6A>
-			<P_6B>Stosowane metody i zasady rachunkowości
-Sprawozdanie finansowe zostało przygotowane zgodnie z wymogami ustawy z dnia 29 września 1994 roku o rachunkowości obowiązującymi jednostki kontynuujące działalność.
+			<P_6A>-	średniego kursu NBP ustalonego dla danej waluty z dnia poprzedzającego ten dzień w przypadku gdy nie jest zasadne zastosowanie kursu faktycznego. 
 
-Wynik finansowy Jednostki za dany rok obrotowy obejmuje wszystkie osiągnięte i przypadające na jej rzecz przychody oraz związane z tymi przychodami koszty zgodnie z zasadami memoriału, współmierności przychodów i kosztów oraz ostrożnej wyceny.
+Różnice kursowe od należności wyrażonych w walutach obcych powstałe na dzień wyceny 
+i przy zapłacie zalicza się odpowiednio: ujemne do kosztów finansowych i dodatnie do przychodów finansowych
+"	Inwestycje krótkoterminowe 
+"	Środki pieniężne jednostka wykazuje w wartości nominalnej. Wyrażone w walutach obcych środki pieniężne wycenia się na dzień bilansowy po obowiązującym na ten dzień średnim kursie ustalonym dla danej waluty przez Prezesa NBP. 
+Dodatnie i ujemne różnice kursowe powstałe z przeliczenia na koniec roku obrotowego środków pieniężnych w walutach obcych na złote polskie, zalicza się odpowiednio do przychodów lub kosztów finansowych.
+"	Rozliczenia międzyokresowe kosztów czynne dokonywane są, jeżeli koszty poniesione dotyczą przyszłych okresów sprawozdawczych.
+	Kapitały  
+Kapitały własne ujmuje się w księgach rachunkowych w wartości nominalnej według ich rodzajów i zasad określonych przepisami prawa, statutu lub umowy spółki.
+Kapitał podstawowy spółki kapitałowej wykazuje się w wysokości określonej w umowie lub statucie i wpisanej w rejestrze sądowym. Zadeklarowane, lecz niewniesione wkłady kapitałowe ujmuje się w aktywach bilansu w pozycji należne wpłaty na kapitał podstawowy.
 
- Stosowane metody i zasady rachunkowości
-Sprawozdanie finansowe zostało przygotowane zgodnie z wymogami ustawy z dnia 29 września 1994 roku o rachunkowości obowiązującymi jednostki kontynuujące działalność.
+Kapitał zapasowy tworzony jest z podziału zysku, przeniesienia z kapitału rezerwowego 
+z aktualizacji wyceny o powyżej ich wartości nominalnej pomniejszonej o koszty tej emisji. 
 
-Wynik finansowy Jednostki za dany rok obrotowy obejmuje wszystkie osiągnięte i przypadające na jej rzecz przychody oraz związane z tymi przychodami koszty zgodnie z zasadami memoriału, współmierności przychodów i kosztów oraz ostrożnej wyceny.
+Pozostałe kapitały rezerwowe tworzone są zgodnie ze przepisami Kodeksu Spółek Handlowych i wyceniane są w wartości nominalnej.
+.	Zobowiązania ujmuje się w księgach w kwocie wymagającej zapłaty. Zobowiązania finansowe Spółka wycenia w kwocie wymagającej zapłaty
+.	Zobowiązania z tytułu dostaw i usług kwalifikuje się do zobowiązań krótkoterminowych bez względu na termin ich wymagalności.
 
-Zasady rachunkowości przewidziane dla jednostek mikro
+Zobowiązania wyrażone w walutach obcych wykazuje się na dzień bilansowy po przeliczeniu waluty obcej na PLN po kursie średnim NBP z dnia bilansowego.
 
-a) zasada ostrożności - Jednostka przy wycenie poszczególnych składników aktywów 
-i pasywów stosuje zasadę ostrożności. 
-b) wycena wg wartości godziwej i skorygowanej cenie nabycia - Jednostka przy wycenie aktywów i pasywów nie stosowała wyceny wg wartości godziwej ani 
-skorygowanej ceny nabycia.
-c) podział zysku lub porycie straty nastąpi po zatwierdzeniu sprawozdania finansowego
 
+Wyrażone w walutach obcych operacje gospodarcze wycenia się według: 
+
+-	faktycznie zastosowanego kursu w tym dniu,
+-	średniego kursu NBP ustalonego dla danej waluty z dnia poprzedzającego ten dzień  
+w przypadku gdy nie jest zasadne zastosowanie kursu faktycznego. 
+
+
+
+</P_6A>
+			<P_6B>Rachunek zysków i strat 
+Przychody i koszty są rozpoznawane według zasady memoriałowej, tj. w okresach których dotyczą, niezależnie od daty otrzymania lub dokonania płatności. 
+Przychody ze sprzedaży produktów, towarów i materiałów ujmuje się w rachunku zysków 
+i strat, gdy znaczące ryzyko i korzyści wynikające z praw własności do produktów, towarów 
+i materiałów przekazano nabywcy. Spółka prowadzi koszty w układzie rodzajowym . Koszt sprzedanych towarów i materiałów obejmuje koszty bezpośrednio z nimi związane oraz uzasadnioną część kosztów pośrednich.
+Na wynik finansowy Spółki wpływają ponadto:
+
+"	Pozostałe przychody i koszty operacyjne pośrednio związane z działalnością spółki
+"	Przychody finansowe z tytułu, odsetek, zysków z rozchodu aktywów finansowych, aktualizacji wartości aktywów finansowych, nadwyżki dodatnich różnic kursowych nad ujemnymi.
+"	Koszty finansowe z tytułu odsetek, strat z tytułu rozchodu aktywów finansowych, aktualizacji wartości aktywów finansowych, nadwyżki ujemnych różnic kursowych nad dodatnimi.
+
+	Opodatkowanie dochodu
+Dochód opodatkowany jest w rozliczeniach rocznych wspólników proporcjonalnie do ich udziałów.
 </P_6B>
-			<P_6C>Wybrane zasady rachunkowości przyjęte przez jednostkę w zakresie, w jakim ustawa przewiduje prawo wyboru
+			<P_6C>Przyjęte przez jednostkę zasady rachunkowości, w tym metody wyceny aktywów i pasywów, ustalania wyniku finansowego oraz sposobu sporządzenia sprawozdania finansowego w zakresie, w jakim ustawa przewiduje prawo wyboru
+Sprawozdanie finansowe zostało przygotowane zgodnie z wymogami ustawy z dnia 29 września 1994 roku o rachunkowości obowiązującymi małe jednostki kontynuujące działalność (zał. Nr 5).
 
-a) przychody i koszty - przychody i koszty są rozpoznawane według zasady memoriałowej, tj. w okresach których dotyczą, niezależnie od daty otrzymania lub dokonania płatności. Przychody ze sprzedaży produktów, towarów i materiałów ujmuje się w rachunku zysków i strat, gdy znaczące ryzyko i korzyści wynikające 
-z praw własności do produktów, towarów i materiałów przekazano nabywcy. 
-
-b) podatek dochodowy  
-" bieżący - nie podlega zwolnieniu z podatku dochodowego od osób prawnych na podstawie art. 17 ustawy o podatku dochodowym od osób prawnych 
-" odroczony - firma nie korzysta z uproszczeń określonych w art. 37 ust. 10 ustawy o rachunkowości pozwalających odstąpić od ustalania aktywów i rezerw z tytułu podatku odroczonego.
-c) należności, roszczenia i zobowiązania - Należności wykazuje się w kwocie wymaganej zapłaty, z zachowaniem zasady ostrożnej wyceny. Zobowiązania ujmuje się w księgach w kwocie wymagającej zapłaty.
-
-d) środki pieniężne - środki pieniężne wykazuje się w wartości nominalnej
+Wynik finansowy Spółki za dany rok obrotowy obejmuje wszystkie osiągnięte i przypadające na jej rzecz przychody oraz związane z tymi przychodami koszty zgodnie z zasadami memoriału, współmierności przychodów i kosztów oraz ostrożnej wyceny.
+. 
 </P_6C>
 		</P_6>
-	</InformacjeOgolneJednostkaMikro>
-	<BilansJednostkaMikro>
-		<jmi:Aktywa>
-			<dtsf:KwotaA>88598.96</dtsf:KwotaA>
-			<dtsf:KwotaB>46704.75</dtsf:KwotaB>
-				<jmi:Aktywa_A>
-					<dtsf:KwotaA>1000.00</dtsf:KwotaA>
-					<dtsf:KwotaB>1000.00</dtsf:KwotaB>
-						<dtsf:PozycjaUszczegolawiajaca>
-							<dtsf:NazwaPozycji>– środki trwałe</dtsf:NazwaPozycji>
-							<dtsf:KwotyPozycji>
+	</WprowadzenieDoSprawozdaniaFinansowegoJednostkaMala>
+	<BilansJednostkaMala>
+		<jma:Aktywa>
+			<dtsf:KwotaA>18162462.80</dtsf:KwotaA>
+			<dtsf:KwotaB>17699229.51</dtsf:KwotaB>
+				<jma:Aktywa_A>
+					<dtsf:KwotaA>553712.01</dtsf:KwotaA>
+					<dtsf:KwotaB>515455.05</dtsf:KwotaB>
+						<jma:Aktywa_A_I>
+							<dtsf:KwotaA>317362.17</dtsf:KwotaA>
+							<dtsf:KwotaB>317362.17</dtsf:KwotaB>
+						</jma:Aktywa_A_I>
+						<jma:Aktywa_A_II>
+							<dtsf:KwotaA>236349.84</dtsf:KwotaA>
+							<dtsf:KwotaB>198092.88</dtsf:KwotaB>
+								<jma:Aktywa_A_II_1>
+									<dtsf:KwotaA>236349.84</dtsf:KwotaA>
+									<dtsf:KwotaB>198092.88</dtsf:KwotaB>
+								</jma:Aktywa_A_II_1>
+								<jma:Aktywa_A_II_2>
+									<dtsf:KwotaA>0.00</dtsf:KwotaA>
+									<dtsf:KwotaB>0.00</dtsf:KwotaB>
+								</jma:Aktywa_A_II_2>
+						</jma:Aktywa_A_II>
+						<jma:Aktywa_A_III>
+							<dtsf:KwotaA>0.00</dtsf:KwotaA>
+							<dtsf:KwotaB>0.00</dtsf:KwotaB>
+						</jma:Aktywa_A_III>
+						<jma:Aktywa_A_IV>
+							<dtsf:KwotaA>0.00</dtsf:KwotaA>
+							<dtsf:KwotaB>0.00</dtsf:KwotaB>
+								<jma:Aktywa_A_IV_1>
+									<dtsf:KwotaA>0.00</dtsf:KwotaA>
+									<dtsf:KwotaB>0.00</dtsf:KwotaB>
+								</jma:Aktywa_A_IV_1>
+								<jma:Aktywa_A_IV_2>
+									<dtsf:KwotaA>0.00</dtsf:KwotaA>
+									<dtsf:KwotaB>0.00</dtsf:KwotaB>
+								</jma:Aktywa_A_IV_2>
+						</jma:Aktywa_A_IV>
+						<jma:Aktywa_A_V>
+							<dtsf:KwotaA>0.00</dtsf:KwotaA>
+							<dtsf:KwotaB>0.00</dtsf:KwotaB>
+						</jma:Aktywa_A_V>
+				</jma:Aktywa_A>
+				<jma:Aktywa_B>
+					<dtsf:KwotaA>17608750.79</dtsf:KwotaA>
+					<dtsf:KwotaB>17183774.46</dtsf:KwotaB>
+						<jma:Aktywa_B_I>
+							<dtsf:KwotaA>7597499.56</dtsf:KwotaA>
+							<dtsf:KwotaB>9498483.95</dtsf:KwotaB>
+						</jma:Aktywa_B_I>
+						<jma:Aktywa_B_II>
+							<dtsf:KwotaA>1117251.87</dtsf:KwotaA>
+							<dtsf:KwotaB>1677590.47</dtsf:KwotaB>
+								<jma:Aktywa_B_II_A>
+									<dtsf:KwotaA>1117251.87</dtsf:KwotaA>
+									<dtsf:KwotaB>1677590.47</dtsf:KwotaB>
+										<jma:Aktywa_B_II_A_1>
+											<dtsf:KwotaA>1117251.87</dtsf:KwotaA>
+											<dtsf:KwotaB>1677590.47</dtsf:KwotaB>
+										</jma:Aktywa_B_II_A_1>
+										<jma:Aktywa_B_II_A_2>
+											<dtsf:KwotaA>0.00</dtsf:KwotaA>
+											<dtsf:KwotaB>0.00</dtsf:KwotaB>
+										</jma:Aktywa_B_II_A_2>
+								</jma:Aktywa_B_II_A>
+						</jma:Aktywa_B_II>
+						<jma:Aktywa_B_III>
+							<dtsf:KwotaA>8892286.11</dtsf:KwotaA>
+							<dtsf:KwotaB>6004644.19</dtsf:KwotaB>
+								<jma:Aktywa_B_III_A>
+									<dtsf:KwotaA>8892286.11</dtsf:KwotaA>
+									<dtsf:KwotaB>6004644.19</dtsf:KwotaB>
+										<jma:Aktywa_B_III_A_1>
+											<dtsf:KwotaA>8892286.11</dtsf:KwotaA>
+											<dtsf:KwotaB>6004644.19</dtsf:KwotaB>
+										</jma:Aktywa_B_III_A_1>
+								</jma:Aktywa_B_III_A>
+						</jma:Aktywa_B_III>
+						<jma:Aktywa_B_IV>
+							<dtsf:KwotaA>1713.25</dtsf:KwotaA>
+							<dtsf:KwotaB>3055.85</dtsf:KwotaB>
+						</jma:Aktywa_B_IV>
+				</jma:Aktywa_B>
+				<jma:Aktywa_C>
+					<dtsf:KwotaA>0.00</dtsf:KwotaA>
+					<dtsf:KwotaB>0.00</dtsf:KwotaB>
+				</jma:Aktywa_C>
+				<jma:Aktywa_D>
+					<dtsf:KwotaA>0.00</dtsf:KwotaA>
+					<dtsf:KwotaB>0.00</dtsf:KwotaB>
+				</jma:Aktywa_D>
+		</jma:Aktywa>
+		<jma:Pasywa>
+			<dtsf:KwotaA>18162462.80</dtsf:KwotaA>
+			<dtsf:KwotaB>17699229.51</dtsf:KwotaB>
+				<jma:Pasywa_A>
+					<dtsf:KwotaA>10453031.69</dtsf:KwotaA>
+					<dtsf:KwotaB>11159724.24</dtsf:KwotaB>
+						<jma:Pasywa_A_I>
+							<dtsf:KwotaA>7038258.76</dtsf:KwotaA>
+							<dtsf:KwotaB>7038258.76</dtsf:KwotaB>
+						</jma:Pasywa_A_I>
+						<jma:Pasywa_A_II>
+							<dtsf:KwotaA>2396890.32</dtsf:KwotaA>
+							<dtsf:KwotaB>2787131.71</dtsf:KwotaB>
+								<jma:Pasywa_A_II_1>
+									<dtsf:KwotaA>0.00</dtsf:KwotaA>
+									<dtsf:KwotaB>0.00</dtsf:KwotaB>
+								</jma:Pasywa_A_II_1>
+						</jma:Pasywa_A_II>
+						<jma:Pasywa_A_III>
+							<dtsf:KwotaA>0.00</dtsf:KwotaA>
+							<dtsf:KwotaB>0.00</dtsf:KwotaB>
+								<jma:Pasywa_A_III_1>
+									<dtsf:KwotaA>0.00</dtsf:KwotaA>
+									<dtsf:KwotaB>0.00</dtsf:KwotaB>
+								</jma:Pasywa_A_III_1>
+						</jma:Pasywa_A_III>
+						<jma:Pasywa_A_IV>
+							<dtsf:KwotaA>0.00</dtsf:KwotaA>
+							<dtsf:KwotaB>0.00</dtsf:KwotaB>
+						</jma:Pasywa_A_IV>
+						<jma:Pasywa_A_V>
+							<dtsf:KwotaA>0.00</dtsf:KwotaA>
+							<dtsf:KwotaB>0.00</dtsf:KwotaB>
+						</jma:Pasywa_A_V>
+						<jma:Pasywa_A_VI>
+							<dtsf:KwotaA>2907780.45</dtsf:KwotaA>
+							<dtsf:KwotaB>1468303.77</dtsf:KwotaB>
+						</jma:Pasywa_A_VI>
+						<jma:Pasywa_A_VII>
+							<dtsf:KwotaA>-1889897.84</dtsf:KwotaA>
+							<dtsf:KwotaB>-133970.00</dtsf:KwotaB>
+						</jma:Pasywa_A_VII>
+				</jma:Pasywa_A>
+				<jma:Pasywa_B>
+					<dtsf:KwotaA>7709431.11</dtsf:KwotaA>
+					<dtsf:KwotaB>6539505.27</dtsf:KwotaB>
+						<jma:Pasywa_B_I>
+							<dtsf:KwotaA>0.00</dtsf:KwotaA>
+							<dtsf:KwotaB>0.00</dtsf:KwotaB>
+								<jma:Pasywa_B_I_1>
+									<dtsf:KwotaA>0.00</dtsf:KwotaA>
+									<dtsf:KwotaB>0.00</dtsf:KwotaB>
+								</jma:Pasywa_B_I_1>
+						</jma:Pasywa_B_I>
+						<jma:Pasywa_B_II>
+							<dtsf:KwotaA>1186343.60</dtsf:KwotaA>
+							<dtsf:KwotaB>0.00</dtsf:KwotaB>
+								<jma:Pasywa_B_II_1>
+									<dtsf:KwotaA>1186343.60</dtsf:KwotaA>
+									<dtsf:KwotaB>0.00</dtsf:KwotaB>
+								</jma:Pasywa_B_II_1>
+						</jma:Pasywa_B_II>
+						<jma:Pasywa_B_III>
+							<dtsf:KwotaA>6523087.51</dtsf:KwotaA>
+							<dtsf:KwotaB>6539505.27</dtsf:KwotaB>
+								<jma:Pasywa_B_III_A>
+									<dtsf:KwotaA>0.00</dtsf:KwotaA>
+									<dtsf:KwotaB>0.00</dtsf:KwotaB>
+								</jma:Pasywa_B_III_A>
+								<jma:Pasywa_B_III_B>
+									<dtsf:KwotaA>6278601.95</dtsf:KwotaA>
+									<dtsf:KwotaB>6150145.32</dtsf:KwotaB>
+										<jma:Pasywa_B_III_B_1>
+											<dtsf:KwotaA>6278601.95</dtsf:KwotaA>
+											<dtsf:KwotaB>6150145.32</dtsf:KwotaB>
+										</jma:Pasywa_B_III_B_1>
+										<jma:Pasywa_B_III_B_2>
+											<dtsf:KwotaA>0.00</dtsf:KwotaA>
+											<dtsf:KwotaB>0.00</dtsf:KwotaB>
+										</jma:Pasywa_B_III_B_2>
+								</jma:Pasywa_B_III_B>
+								<jma:Pasywa_B_III_C>
+									<dtsf:KwotaA>0.00</dtsf:KwotaA>
+									<dtsf:KwotaB>0.00</dtsf:KwotaB>
+								</jma:Pasywa_B_III_C>
+						</jma:Pasywa_B_III>
+						<jma:Pasywa_B_IV>
+							<dtsf:KwotaA>0.00</dtsf:KwotaA>
+							<dtsf:KwotaB>0.00</dtsf:KwotaB>
+						</jma:Pasywa_B_IV>
+				</jma:Pasywa_B>
+		</jma:Pasywa>
+	</BilansJednostkaMala>
+	<RZiSJednostkaMala>
+		<jma:RZiSPor>
+			<jma:A>
+				<dtsf:KwotaA>12278117.47</dtsf:KwotaA>
+				<dtsf:KwotaB>14829296.52</dtsf:KwotaB>
+					<jma:A_I>
+						<dtsf:KwotaA>12278117.47</dtsf:KwotaA>
+						<dtsf:KwotaB>14829296.52</dtsf:KwotaB>
+					</jma:A_I>
+					<jma:A_II>
+						<dtsf:KwotaA>0.00</dtsf:KwotaA>
+						<dtsf:KwotaB>0.00</dtsf:KwotaB>
+					</jma:A_II>
+					<jma:A_III>
+						<dtsf:KwotaA>0.00</dtsf:KwotaA>
+						<dtsf:KwotaB>0.00</dtsf:KwotaB>
+					</jma:A_III>
+			</jma:A>
+			<jma:B>
+				<dtsf:KwotaA>9466714.31</dtsf:KwotaA>
+				<dtsf:KwotaB>13474227.11</dtsf:KwotaB>
+					<jma:B_I>
+						<dtsf:KwotaA>18043.04</dtsf:KwotaA>
+						<dtsf:KwotaB>18592.30</dtsf:KwotaB>
+					</jma:B_I>
+					<jma:B_II>
+						<dtsf:KwotaA>175793.53</dtsf:KwotaA>
+						<dtsf:KwotaB>254633.93</dtsf:KwotaB>
+					</jma:B_II>
+					<jma:B_III>
+						<dtsf:KwotaA>1395249.38</dtsf:KwotaA>
+						<dtsf:KwotaB>3855290.62</dtsf:KwotaB>
+					</jma:B_III>
+					<jma:B_IV>
+						<dtsf:KwotaA>683042.93</dtsf:KwotaA>
+						<dtsf:KwotaB>627547.48</dtsf:KwotaB>
+					</jma:B_IV>
+					<jma:B_V>
+						<dtsf:KwotaA>120402.88</dtsf:KwotaA>
+						<dtsf:KwotaB>105338.51</dtsf:KwotaB>
+							<jma:B_V_1>
+								<dtsf:KwotaA>112866.30</dtsf:KwotaA>
+								<dtsf:KwotaB>105338.51</dtsf:KwotaB>
+							</jma:B_V_1>
+					</jma:B_V>
+					<jma:B_VI>
+						<dtsf:KwotaA>7074182.55</dtsf:KwotaA>
+						<dtsf:KwotaB>8612824.27</dtsf:KwotaB>
+							<jma:B_VI_1>
+								<dtsf:KwotaA>7009568.04</dtsf:KwotaA>
+								<dtsf:KwotaB>8509975.85</dtsf:KwotaB>
+							</jma:B_VI_1>
+					</jma:B_VI>
+			</jma:B>
+			<jma:C>
+				<dtsf:KwotaA>2811403.16</dtsf:KwotaA>
+				<dtsf:KwotaB>1355069.41</dtsf:KwotaB>
+			</jma:C>
+			<jma:D>
+				<dtsf:KwotaA>29665.64</dtsf:KwotaA>
+				<dtsf:KwotaB>58.32</dtsf:KwotaB>
+					<jma:D_1>
+						<dtsf:KwotaA>0.00</dtsf:KwotaA>
+						<dtsf:KwotaB>0.00</dtsf:KwotaB>
+					</jma:D_1>
+			</jma:D>
+			<jma:E>
+				<dtsf:KwotaA>179.94</dtsf:KwotaA>
+				<dtsf:KwotaB>1.97</dtsf:KwotaB>
+					<jma:E_1>
+						<dtsf:KwotaA>0.00</dtsf:KwotaA>
+						<dtsf:KwotaB>0.00</dtsf:KwotaB>
+					</jma:E_1>
+			</jma:E>
+			<jma:F>
+				<dtsf:KwotaA>741330.10</dtsf:KwotaA>
+				<dtsf:KwotaB>544997.27</dtsf:KwotaB>
+					<jma:F_I>
+						<dtsf:KwotaA>0.00</dtsf:KwotaA>
+						<dtsf:KwotaB>0.00</dtsf:KwotaB>
+							<jma:F_I_1>
 								<dtsf:KwotaA>0.00</dtsf:KwotaA>
 								<dtsf:KwotaB>0.00</dtsf:KwotaB>
-							</dtsf:KwotyPozycji>
-						</dtsf:PozycjaUszczegolawiajaca>
-				</jmi:Aktywa_A>
-				<jmi:Aktywa_B>
-					<dtsf:KwotaA>87598.96</dtsf:KwotaA>
-					<dtsf:KwotaB>45704.75</dtsf:KwotaB>
-						<jmi:Aktywa_B_1>
-							<dtsf:KwotaA>0.00</dtsf:KwotaA>
-							<dtsf:KwotaB>0.00</dtsf:KwotaB>
-						</jmi:Aktywa_B_1>
-						<jmi:Aktywa_B_2>
-							<dtsf:KwotaA>0.00</dtsf:KwotaA>
-							<dtsf:KwotaB>0.00</dtsf:KwotaB>
-						</jmi:Aktywa_B_2>
-				</jmi:Aktywa_B>
-				<jmi:Aktywa_C>
-					<dtsf:KwotaA>0.00</dtsf:KwotaA>
-					<dtsf:KwotaB>0.00</dtsf:KwotaB>
-				</jmi:Aktywa_C>
-				<jmi:Aktywa_D>
-					<dtsf:KwotaA>0.00</dtsf:KwotaA>
-					<dtsf:KwotaB>0.00</dtsf:KwotaB>
-				</jmi:Aktywa_D>
-		</jmi:Aktywa>
-		<jmi:Pasywa>
-			<dtsf:KwotaA>88598.96</dtsf:KwotaA>
-			<dtsf:KwotaB>46704.75</dtsf:KwotaB>
-				<jmi:Pasywa_A>
-					<dtsf:KwotaA>86143.96</dtsf:KwotaA>
-					<dtsf:KwotaB>46536.75</dtsf:KwotaB>
-						<jmi:PozycjaUszczegolawiajaca_1>
-							<dtsf:NazwaPozycji>– zysk (strata) netto</dtsf:NazwaPozycji>
-							<dtsf:KwotyPozycji>
-								<dtsf:KwotaA>39607.21</dtsf:KwotaA>
-								<dtsf:KwotaB>11929.44</dtsf:KwotaB>
-							</dtsf:KwotyPozycji>
-						</jmi:PozycjaUszczegolawiajaca_1>
-						<jmi:Pasywa_A_1>
-							<dtsf:KwotaA>5000.00</dtsf:KwotaA>
-							<dtsf:KwotaB>5000.00</dtsf:KwotaB>
-								<dtsf:PozycjaUszczegolawiajaca>
-									<dtsf:NazwaPozycji>- kapitał zapasowy</dtsf:NazwaPozycji>
-									<dtsf:KwotyPozycji>
-										<dtsf:KwotaA>41536.75</dtsf:KwotaA>
-										<dtsf:KwotaB>29607.31</dtsf:KwotaB>
-									</dtsf:KwotyPozycji>
-								</dtsf:PozycjaUszczegolawiajaca>
-						</jmi:Pasywa_A_1>
-				</jmi:Pasywa_A>
-				<jmi:Pasywa_B>
-					<dtsf:KwotaA>2455.00</dtsf:KwotaA>
-					<dtsf:KwotaB>168.00</dtsf:KwotaB>
-						<jmi:Pasywa_B_1>
-							<dtsf:KwotaA>0.00</dtsf:KwotaA>
-							<dtsf:KwotaB>0.00</dtsf:KwotaB>
-						</jmi:Pasywa_B_1>
-						<jmi:Pasywa_B_2>
-							<dtsf:KwotaA>0.00</dtsf:KwotaA>
-							<dtsf:KwotaB>0.00</dtsf:KwotaB>
-						</jmi:Pasywa_B_2>
-				</jmi:Pasywa_B>
-		</jmi:Pasywa>
-	</BilansJednostkaMikro>
-	<RZiSJednostkaMikro>
-			<jmi:A>
+							</jma:F_I_1>
+					</jma:F_I>
+					<jma:F_II>
+						<dtsf:KwotaA>0.00</dtsf:KwotaA>
+						<dtsf:KwotaB>0.00</dtsf:KwotaB>
+							<jma:F_II_1>
+								<dtsf:KwotaA>0.00</dtsf:KwotaA>
+								<dtsf:KwotaB>0.00</dtsf:KwotaB>
+							</jma:F_II_1>
+					</jma:F_II>
+					<jma:F_III>
+						<dtsf:KwotaA>0.00</dtsf:KwotaA>
+						<dtsf:KwotaB>0.00</dtsf:KwotaB>
+							<jma:F_III_1>
+								<dtsf:KwotaA>0.00</dtsf:KwotaA>
+								<dtsf:KwotaB>0.00</dtsf:KwotaB>
+							</jma:F_III_1>
+					</jma:F_III>
+					<jma:F_IV>
+						<dtsf:KwotaA>0.00</dtsf:KwotaA>
+						<dtsf:KwotaB>0.00</dtsf:KwotaB>
+					</jma:F_IV>
+			</jma:F>
+			<jma:G>
+				<dtsf:KwotaA>674438.51</dtsf:KwotaA>
+				<dtsf:KwotaB>431819.26</dtsf:KwotaB>
+					<jma:G_I>
+						<dtsf:KwotaA>0.00</dtsf:KwotaA>
+						<dtsf:KwotaB>0.00</dtsf:KwotaB>
+							<jma:G_I_1>
+								<dtsf:KwotaA>0.00</dtsf:KwotaA>
+								<dtsf:KwotaB>0.00</dtsf:KwotaB>
+							</jma:G_I_1>
+					</jma:G_I>
+					<jma:G_II>
+						<dtsf:KwotaA>0.00</dtsf:KwotaA>
+						<dtsf:KwotaB>0.00</dtsf:KwotaB>
+							<jma:G_II_1>
+								<dtsf:KwotaA>0.00</dtsf:KwotaA>
+								<dtsf:KwotaB>0.00</dtsf:KwotaB>
+							</jma:G_II_1>
+					</jma:G_II>
+					<jma:G_III>
+						<dtsf:KwotaA>0.00</dtsf:KwotaA>
+						<dtsf:KwotaB>0.00</dtsf:KwotaB>
+					</jma:G_III>
+			</jma:G>
+			<jma:H>
+				<dtsf:KwotaA>2907780.45</dtsf:KwotaA>
+				<dtsf:KwotaB>1468303.77</dtsf:KwotaB>
+			</jma:H>
+			<jma:I>
 				<dtsf:KwotaA>0.00</dtsf:KwotaA>
 				<dtsf:KwotaB>0.00</dtsf:KwotaB>
-					<jmi:A_1>
-						<dtsf:KwotaA>0.00</dtsf:KwotaA>
-						<dtsf:KwotaB>0.00</dtsf:KwotaB>
-					</jmi:A_1>
-			</jmi:A>
-			<jmi:B>
-				<dtsf:KwotaA>16120.68</dtsf:KwotaA>
-				<dtsf:KwotaB>15698.65</dtsf:KwotaB>
-					<jmi:B_I>
-						<dtsf:KwotaA>0.00</dtsf:KwotaA>
-						<dtsf:KwotaB>0.00</dtsf:KwotaB>
-					</jmi:B_I>
-					<jmi:B_II>
-						<dtsf:KwotaA>183.27</dtsf:KwotaA>
-						<dtsf:KwotaB>149.00</dtsf:KwotaB>
-					</jmi:B_II>
-					<jmi:B_III>
-						<dtsf:KwotaA>0.00</dtsf:KwotaA>
-						<dtsf:KwotaB>0.00</dtsf:KwotaB>
-					</jmi:B_III>
-					<jmi:B_IV>
-						<dtsf:KwotaA>15937.41</dtsf:KwotaA>
-						<dtsf:KwotaB>15549.65</dtsf:KwotaB>
-					</jmi:B_IV>
-			</jmi:B>
-			<jmi:C>
-				<dtsf:KwotaA>56644.89</dtsf:KwotaA>
-				<dtsf:KwotaB>27796.09</dtsf:KwotaB>
-					<jmi:C_1>
-						<dtsf:KwotaA>0.00</dtsf:KwotaA>
-						<dtsf:KwotaB>0.00</dtsf:KwotaB>
-					</jmi:C_1>
-			</jmi:C>
-			<jmi:D>
-				<dtsf:KwotaA>0.00</dtsf:KwotaA>
-				<dtsf:KwotaB>0.00</dtsf:KwotaB>
-					<jmi:D_1>
-						<dtsf:KwotaA>0.00</dtsf:KwotaA>
-						<dtsf:KwotaB>0.00</dtsf:KwotaB>
-					</jmi:D_1>
-			</jmi:D>
-			<jmi:E>
-				<dtsf:KwotaA>3917.00</dtsf:KwotaA>
-				<dtsf:KwotaB>168.00</dtsf:KwotaB>
-			</jmi:E>
-			<jmi:F>
-				<dtsf:KwotaA>36607.21</dtsf:KwotaA>
-				<dtsf:KwotaB>11929.44</dtsf:KwotaB>
-			</jmi:F>
-	</RZiSJednostkaMikro>
-	<InformacjeUzupelniajaceDoBilansuJednostkaMikro>
-		<InformacjeUzupelniajaceDoBilansu>
+			</jma:I>
+			<jma:J>
+				<dtsf:KwotaA>2907780.45</dtsf:KwotaA>
+				<dtsf:KwotaB>1468303.77</dtsf:KwotaB>
+			</jma:J>
+		</jma:RZiSPor>
+	</RZiSJednostkaMala>
+	<DodatkoweInformacjeIObjasnieniaJednostkaMala>
+		<DodatkoweInformacjeIObjasnienia>
 			<dtsf:Opis>Dodatkowe informacje i objaśnienia</dtsf:Opis>
-		</InformacjeUzupelniajaceDoBilansu>
-		<InformacjeUzupelniajaceDoBilansu>
+		</DodatkoweInformacjeIObjasnienia>
+		<DodatkoweInformacjeIObjasnienia>
 			<dtsf:Opis>Opis załącznika</dtsf:Opis>
 				<dtsf:Plik>
-					<dtsf:Nazwa>notatropic.sp.zoo.2019.pdf</dtsf:Nazwa>
-					<dtsf:Zawartosc>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MCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCA1NTcgXT4+CmVuZG9iago5IDAgb2JqCjw8L1R5cGUvRm9udERlc2NyaXB0b3IvRm9udE5hbWUvQXJpYWxVbmljb2RlTVMsQm9sZC9Bc2NlbnQgNzI4L0NhcEhlaWdodCA2NjYvRGVzY2VudCAtMjEwL0l0YWxpY0FuZ2xlIDAvU3RlbVYgODcvRmxhZ3MgMzIvRm9udEJCb3hbLTEwMTEgLTMzMCAyMjYwIDEwNzhdPj4KZW5kb2JqCjEwIDAgb2JqCjw8L1R5cGUvRm9udC9CYXNlRm9udC9BcmlhbFVuaWNvZGVNUyxCb2xkL1N1YnR5cGUvVHlwZTAvRW5jb2RpbmcvSWRlbnRpdHktSC9OYW1lL0YxL0Rlc2NlbmRhbnRGb250c1sxNCAwIFJdL1RvVW5pY29kZSAxNSAwIFI+PgplbmRvYmoKMTEgMCBvYmoKPDwvVHlwZS9Gb250L0Jhc2VGb250L0FyaWFsVW5pY29kZU1TL1N1YnR5cGUvVHJ1ZVR5cGUvRW5jb2RpbmcvV2luQW5zaUVuY29kaW5nL0ZvbnREZXNjcmlwdG9yIDEyIDAgUi9OYW1lL0YyL0ZpcnN0Q2hhciAzMi9MYXN0Q2hhciAyMTEvV2lkdGhzIFsyNzggMCAwIDAgMCA4ODkgMCAwIDAgMCAwIDAgMjc4IDAgMjc4IDAgNTU2IDU1NiA1NTYgNTU2IDU1NiA1NTYgNTU2IDU1NiAwIDU1NiAwIDAgMCAwIDAgMCAwIDY2NyAwIDcyMiA3MjIgNjY3IDAgNzc4IDAgMjc4IDAgNjY3IDU1NiAwIDcyMiA3NzggNjY3IDAgNzIyIDY2NyA2MTEgMCAwIDk0NCAwIDAgNjExIDAgMCAwIDAgMCAwIDU1NiA1NTYgNTAwIDU1NiA1NTYgMjc4IDU1NiAwIDIyMiAyMjIgNTAwIDIyMiA4MzMgNTU2IDU1NiA1NTYgMCAzMzMgNTAwIDI3OCA1NTYgMCA3MjIgMCA1MDAgNTAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDUwMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCA3NzggXT4+CmVuZG9iagoxMiAwIG9iago8PC9UeXBlL0ZvbnREZXNjcmlwdG9yL0ZvbnROYW1lL0FyaWFsVW5pY29kZU1TL0FzY2VudCA3MjgvQ2FwSGVpZ2h0IDY2Ni9EZXNjZW50IC0yMTAvSXRhbGljQW5nbGUgMC9TdGVtViA4Ny9GbGFncyAzMi9Gb250QkJveFstMTAxMSAtMzMwIDIyNjAgMTA3OF0+PgplbmRvYmoKMTMgMCBvYmoKPDwvVHlwZS9Gb250L0Jhc2VGb250L0FyaWFsVW5pY29kZU1TL1N1YnR5cGUvVHlwZTAvRW5jb2RpbmcvSWRlbnRpdHktSC9OYW1lL0YzL0Rlc2NlbmRhbnRGb250c1sxNiAwIFJdL1RvVW5pY29kZSAxNyAwIFI+PgplbmRvYmoKMTQgMCBvYmoKPDwvVHlwZS9Gb250L1N1YnR5cGUvQ0lERm9udFR5cGUyL0Jhc2VGb250L0FyaWFsVW5pY29kZU1TLEJvbGQvQ0lEU3lzdGVtSW5mbzw8L1N1cHBsZW1lbnQgMC9PcmRlcmluZyhJZGVudGl0eSkvUmVnaXN0cnkoQWRvYmUpPj4vRFcgMjc5L1cgWzE5OFs2NjZdMTk5WzU1Nl0yMTlbNTU2XTI1OVs1NTZdMjYwWzIyMl0zMTZbNTAwXTMxOFs1MDBdXS9Gb250RGVzY3JpcHRvciA5IDAgUj4+CmVuZG9iagoxNSAwIG9iago8PC9MZW5ndGggMjQ5L0ZpbHRlci9GbGF0ZURlY29kZT4+CnN0cmVhbQp42l3QzWrEIBAA4LtP4XGXHtQkbSiEQJvdQg79oek+gKuTrNAYMeaQt28cl23pQeFTx/lhTXtorQmUffhJdRBob6z2ME+LV0DPMBhLREa1UeEq3NUoHWFbcLfOAcbW9hOpKsI+t8s5+JXuXsQd3xP27jV4Ywe6OzXd5m5x7htGsIFyUtdUQ7/98yrdmxyBshj1e/a1OqAZWqTsatIwO6nASzsAqThvHmpacZEfawJW/7svU9S5Vxfp/7zmRY0qk+5Rh2eUeIwSPEcVIqlIylB5gyqfko5JDVZwzRVriTO6taYW77eucZDYXGzLWLjN2k0uRsX1A1rTeNoKZW5kc3RyZWFtCmVuZG9iagoxNiAwIG9iago8PC9UeXBlL0ZvbnQvU3VidHlwZS9DSURGb250VHlwZTIvQmFzZUZvbnQvQXJpYWxVbmljb2RlTVMvQ0lEU3lzdGVtSW5mbzw8L1N1cHBsZW1lbnQgMC9PcmRlcmluZyhJZGVudGl0eSkvUmVnaXN0cnkoQWRvYmUpPj4vRFcgMjc4L1cgWzE5OFs2NjZdMTk5WzU1Nl0yMTlbNTU2XTI1OVs1NTZdMjYwWzIyMl0yODRbNjY2XTMxNls1MDBdMzE4WzUwMF1dL0ZvbnREZXNjcmlwdG9yIDEyIDAgUj4+CmVuZG9iagoxNyAwIG9iago8PC9MZW5ndGggMjUzL0ZpbHRlci9GbGF0ZURlY29kZT4+CnN0cmVhbQp42l3QzW6EIBAA4DtPwXGbHgB1u21iTFp3m3joT+r2AVgYLUlFgnjw7SuD2TY9QPIBw/ywujk21gTK3v2oWgi0M1Z7mMbZK6AX6I0lIqPaqLAJdzVIR9ga3C5TgKGx3UjKkrCP9XIKfqG75/yW3xD25jV4Y3u6+6zb1e3s3DcMYAPlpKqohm7950W6VzkAZTHq9+y8OKAZWqTsatQwOanAS9sDKTmv7ypacpGfKgJW/7u/T1GXTn1J/+c1LyrUIWmPOj6hxEOU4DmqEElFUoYSNWr/iMqTDptOSTXWs2WOlcWJXRtVs/frDHCs2Gps0li4Tt6NLkbF9QNu4XupCmVuZHN0cmVhbQplbmRvYmoKeHJlZgowIDE4CjAwMDAwMDAwMDAgNjU1MzUgZiAKMDAwMDAwMDAwOSAwMDAwMCBuIAowMDAwMDAwMDc2IDAwMDAwIG4gCjAwMDAwMDAyMjUgMDAwMDAgbiAKMDAwMDAwMDI4MiAwMDAwMCBuIAowMDAwMDAwNDYyIDAwMDAwIG4gCjAwMDAwMDQwNzkgMDAwMDAgbiAKMDAwMDAwNDI1OSAwMDAwMCBuIAowMDAwMDA0Nzg5IDAwMDAwIG4gCjAwMDAwMDU1MDEgMDAwMDAgbiAKMDAwMDAwNTY3MSAwMDAwMCBuIAowMDAwMDA1ODE0IDAwMDAwIG4gCjAwMDAwMDY0NDMgMDAwMDAgbiAKMDAwMDAwNjYwOSAwMDAwMCBuIAowMDAwMDA2NzQ3IDAwMDAwIG4gCjAwMDAwMDY5ODMgMDAwMDAgbiAKMDAwMDAwNzMwMSAwMDAwMCBuIAowMDAwMDA3NTQxIDAwMDAwIG4gCnRyYWlsZXIKPDwvU2l6ZSAxOC9Sb290IDEgMCBSL0luZm8gMiAwIFI+PgpzdGFydHhyZWYKNzg2MwolJUVPRgo=</dtsf:Zawartosc>
+					<dtsf:Nazwa>wykaz.not.tropic.sp.kom.2020.pdf</dtsf:Nazwa>
+					<dtsf:Zawartosc>JVBERi0xLjMKMSAwIG9iago8PC9UeXBlL0NhdGFsb2cvUGFnZUxheW91dC9TaW5nbGVQYWdlL1BhZ2VzIDMgMCBSPj4KZW5kb2JqCjIgMCBvYmoKPDwvUHJvZHVjZXIoU3lub3BzZSBQREYgZW5naW5lIDEuMTguNDg5NCkvQ3JlYXRpb25EYXRlKEQ6MjAyMTA2MzAxNjM2NTZaKS9BdXRob3IoU3ByYXdvemRhbmllIGZpbmFuc293ZSkvTW9kRGF0ZShEOjIwMjEwNjMwMTYzNjU2Wik+PgplbmRvYmoKMyAwIG9iago8PC9UeXBlL1BhZ2VzL0tpZHNbNCAwIFIgNiAwIFJdL0NvdW50IDI+PgplbmRvYmoKNCAwIG9iago8PC9NZWRpYUJveFswIDAgNTk1IDg0Ml0vVHlwZS9QYWdlL1BhcmVudCAzIDAgUi9SZXNvdXJjZXM8PC9Gb250PDwvRjAgOCAwIFIvRjEgMTAgMCBSL0YyIDExIDAgUi9GMyAxMyAwIFI+Pi9YT2JqZWN0PDw+Pi9Qcm9jU2V0Wy9QREYvVGV4dC9JbWFnZUNdPj4vQ29udGVudHMgNSAwIFI+PgplbmRvYmoKNSAwIG9iago8PC9MZW5ndGggNjMxL0ZpbHRlci9GbGF0ZURlY29kZT4+CnN0cmVhbQp42pWV327aMBTG7/0U57KTqtT5SyJNk9KEVqFrwiBVVaZduCQwU4iZCYrIa/aFZhNoGLhSJpDiJOd8/n2H48MfdHOHwdUMG9IZ8hzNcCCtEQb54XN0myLLkm97PQ/SDF3FSfoCT5OnYf8LpAuRrX9kf8U6Nr81T1vNqzjyB4pYHDiXsUEfwgSi+C4ZPfrBIBJ3oZ8+JM/9RqKfIh1jSXhzZ5xiu6582NI6vYaWlQT0s1Qd65pjHeJ13dDa+MmKkmIHFVSEl+xAbZ461MMDdbv91ZSS6W8oaL4iZc4pWRY7cU9hzUkll2f7K3Btu8U1znEhrU5ID6EfpF0hOcveJGbJK6LKwdZlzgk7lhQKcsvUeifw5hk81lznX/42YcjrfEoVLDi8vWQpi1y45extC+yVs5JVuxXUpOTbTFRefMXbOd+upceaVCwTAWf4LbXhfkCwmm3KzhXJgRYzxldkushhW2/XedfMgpKFymvQUzSUMLNbSVds77r+hO+T7LqgokoFBxsyBlthr9pdC5lFnhXCrFDfl2u3KbsCrWnnlrmG166qmUrUDC4DYdNVUjqjm5LJbsmWBNg0F6fk2AVtA+hNhmiAjTylrM6I+IFgRgtSbFiVz9mxWm9UlF/2HRjYwNpRyrM1+3gUdAvvRT3zKJqOkmEUwHj4rqybeQn+4MMEkvuRH0fBJImVfh2F3yQcJs9RP5xE/vc4UQ4DRUGDqPMG/+fhIXn04/AlTZ7980mw/0sZ3aOfv8Q1E2NtIKaDOIUVsgx57XlyPqyQLWZxs16iMRIL1znU2XA98dTS9yUel5wVl8O90bI8ydRoNWupNUY/0F9JxK/dCmVuZHN0cmVhbQplbmRvYmoKNiAwIG9iago8PC9NZWRpYUJveFswIDAgNTk1IDg0Ml0vVHlwZS9QYWdlL1BhcmVudCAzIDAgUi9SZXNvdXJjZXM8PC9Gb250PDwvRjAgOCAwIFIvRjEgMTAgMCBSL0YyIDExIDAgUi9GMyAxMyAwIFI+Pi9YT2JqZWN0PDw+Pi9Qcm9jU2V0Wy9QREYvVGV4dC9JbWFnZUNdPj4vQ29udGVudHMgNyAwIFI+PgplbmRvYmoKNyAwIG9iago8PC9MZW5ndGggNTM2MC9GaWx0ZXIvRmxhdGVEZWNvZGU+PgpzdHJlYW0KeNrlXd1uG7mSvvdT8GaBHECjaTb7d7FYwHE8QZI5cTbxYHCysxdtWZOj2FZ7JRmC9SD7Yvso8wLbZPOnSFaxO7NzsANscpGuNKv4VbH6K4piU/959v0PGWuWecmufz3LlvXw7/EsY/Lv7svZy+uzopA367pl17dnL973h47xv7Drr2eX10O7oXGxbJWSa1s1y1K1/vyw6bbP7MiO3e7QK63vf+C2u3/JOH/1r+P/OhAvVptu9Xe23awfusN6t+nut8+DvGGPu+4oL73eR6gfX5/9+38M/96e5ezt6MYALJf/1lXNHsw1V7fuzz4Nf3lZL81tfQ1vQ23X1Ls3Nke1J4zneemsG4HSB429m6Z7VJ/nS56z65McFl7XqkHZqFF51+9Ph2cTRZ5lshnnfFkIo1DlrC5qPYqn7g4du6xCxu7UwyGyxofEaI3xJldZImplfRjVVdS8XhaVxSKks3ml0ez607H/2h/jXiaDmreFuSuv6AHR7fxbNtyhroqTyv9ccBvln+mUz7KLNg4d+3Wze3j2kjsBWFRjFNVdI+DOgqbglnEH0+W8XZa1HgCRqWzTbp0/Hfrd/m6zjsZMLIXJH8FLkD/yue1SGSEyoSKsM+Kh+4rELbuo45gd7vrjejEJxSYPDqVeVqWFUo7RqMb2/d1ufdxGXRR2yEXWKuyD3tjF/Wa13q6+rtnGG8rJ8SpEZp94fU2Ot2vr3zRjiuhLQhiGXXtZZXZArx53/Zdd99Afu208qnlmVVowpHf9w+PTQM6/HcPApL0o2gZwshbIKLjG3k3rJaIvbCXKVES0k2+2wxgOdejw/OCNCueN9q8YOB0m7d22P3739z7yb8qBcrgz3lVXpPOmnX/LuBbp8iG/aq6xlry1nn3sTuuHEKRfnkaxatqovPgFzGsxXeI8s6iNXE8n3Mwg4+q/fhc93uyeDoeebTvmDWEbdlK1XOmox3d1mk0l6zsmn/b9k58hk5GK6sMop+JNV3wbTsyKrDCZnFtVba78yxZZZtDOgeERvxTSjhBF0mEMLQxZbB+ovMwtTsFrNnDUgtdhyU4CCmlNy7RLVB20iDELktwKPKZzAISkpMSkGzS7W5yIFZnfQ2HLcaTTKEKK0XLSF5KgHVDEikTacCJN58AA7DdSYdIRimctxsgCTNMSBJRM04DqtFgNkyT84dUiaDBNltAoZkH4JNdkfwST3vVDzV/5hMrzgT+5LYuqtzozlOpTpJkmTLkfMYeW6RDSLGpChNhwBFnbQoNwZAqGRxdKSLlBUKiFGOhH/OhgJimSBBTyhpEphygGNYARfUOPeERnAAgZYxQTTtAUamDGNgA74kAnUYSsYeSEJySDWpyxDUeOBM5pGIDPNLkl3KDo00AM9SNunJGiPnVpqWiW+HOrJXB/ivqgRVRfkRNkxypb/l5yvNtvsCnjq5dx2y/DZya2XUsuDVbEmsbHU2YKzcC4f9iUlA5nSEJaJAeEJmMdccSCY9oySzEtjQHSjrpOeEDQsIEXaEcs6yCmWZZAE5CPEQlfKArWYBFtw7B4JKd7DzhnlGj8NAFriLEFwK44yCkIAekYkXaCJF+DMbbgmJXAOInBcaHmRdoDinY1vFA7YtUZKemznpbymnhGtQTuT7ImsIjqR6wq2j8Xq+atYVU9j6XJkoxSyCVaJONMs6kOJGLBkWXepsiSxgAZRF0nPCC41MALtCOydBDTZEmgCbjEiIQvFJdqsIi2IUs8ktO9BzQySjR+mk01xNgCIEsc5BSEgEuMSDtBsqnBGFtwZElgnMTgKE7THe0BxaUaXqgdkeWMlPTJTEtZLUcBe0i1BBtM0iG0iVr4/ofcshjP+LIo/A/R3Hwt+unQP+ql9u9/EOhXajngztMT1lRcxk2fV5uO9bfe160C/bo1h1+3svDj/DIg/qwJl1MFOnfNg29mvrJfXvzTL3/BCJkeiJCwtEgPJs3ZZrAwG46UM1PWME5OoIBMpa5TXhCkbRGG+hJeXY1tUHypzgOOMiIFniJpAw7TNzyMgpvRf8BQo5TwgWZqgxKxAagYxTkJImAqIyYcIcnawkRsODbGYU6jcByq+TThBcXWBmGkL3m4aOlcnKbGGc/j5BMxmZIzEmLGWExGQ05W1YMpaT5gyrJuTKlSO2VyfwYbtDWLFHabjJ0iG/v+Dhnzvy92/e2d3CNz2OlvswOdrIh1wo0z46CVVQXXtEteAQ4VXgsjgyaBDV/Da6KUUBszusm5cPeVkNAHjf0GGkKkz4cPFtzulFGrXWXZmvXu17unbbRZJgkor2VWuNujSLoDW4P7Bm2kzYdcrMzOiVyEeD/sumMf7XAYHgwzGclz9fVoWXLV/jh8bjo97w/rL4hWoDKOpdR6wrLOzkhg1sl5QLfdxJsuymUlrP2GlaLQT8MXGfFoY8FkVIXIvDwwMj0yvobXREcfsVG6T8V5Mz7HLvgvn26ft3ebYOtHZdrXkgRN4G+ebvvj/Zr1u+5ENB/z1kX9Zn2LxB0uHdq4rwbDtzusNfjIbVvfbBN2DS6P94aqWtmManIwfMe5hNTtt/1cwltt0gB1kkAdt0VH4csrM0j3/V2HxV24jQQm9Lxxu4bYbc+Uqr++MCPtRJuB+1JIpa1r7DcwKRnqm31IhVh6ufjXbn96HqqKn4vewInCo4Kn3Wluet2e1vEznfSzUJ//XLkZRSpKXmtwXwch1pZ8IuxenuHziotEmF4XeD3dRAxVL7PaWvQiddh12/1jvzuEX4ROellmtTfcRqYj5Wt4TXQ0EBucm31bRcUDkvrQn/r9Yfa8IdwSZuipKCsTj5kzls03zVfWXt7OiJucqLn7UkjF3TX2G5iYBvo8E8uidIsSQdWld2HZlFWSnFwS8xItwhaTcydoFLXgbxoosxZZvvVGzlu+tWMBdgx4319NsIT8/ipgHzDXMpjsSjixtWAqSt50abhOxJiYO5oAhtpyQtg2EKL3CTzRrz+NGCUSMzpBtJgiXbVQKxtTuCb6DgvKKNLoyYmUgYhYyEAtbQul7sDyumVlWy8KjlZSGhcsAfI65RVeZi3kQBvgFWUd4K1yVjT5om18uAkwPj+PEuUIXgkN0FgXQC147qdBwyuW82ZRlv5HvQk4IfeNIu0QWbQMasSChNvmQWRh2k6DcJw88nPKBZz+Lb5AW67WNi1YcobZyrKyYXnbLNoCZXg7VKPUeMseAiPoJlp2TlC4Zxa3IRde4xWJshhNjVOWz8eNXbrFPg04Cy/u9mp2p/dL/3Owejvpkcde8joREYKvrbeRvqbkokHXRFM9+5ylJRI3ytgOVqxtWZmANtV7SFBapD0geduixGx4xNx4cIf5nMggZsjKKVyQr9R1yi+cth3mUF8yck1FNdmzT0laonDjHG1hIdqS0IQgB3yy95CStEh7QNKyRYnZcLyL45wBw7GlZs6UGzgvO4ihPkhIuYZQT2dkQIharOMVv4gz62hdMkmrnmXcCs/tZwI1ErX9pvK/wnlsVrkPEJVaRQKtt93N8yp++2aGHz4vSSEVCZKPa7CY6VkwhKvf/4zoluw6ICMt0tAJQq69Bb8QmqZcDNxk9xH1aDnhRIKVa3/9x7MSk64GnKbcFDCPnZSQdI1i5Rqs1oSxVbSLRDbddUBJWiShU7RceysoITRNvAi46e4jRtJywokEN9f+ekQEVFMvgnQODsCWmjqTnlDcXINFDyoxDfkmMzNgRC0O02OcTIxsG8xgVGcT0YerC/7SRmHfOf/fLG6gr0PEaxZFNfU6xEQcfGaTAhlDktJVhHxdw9UOXkTXeKcBh2mRgEsQ+Ygn0HQUTWBKdxzRlJYp4AkKV/Ai/XidAgDNRckacp2CBuURmBJohyjmHuF6uvEaBcBKr1EQSAL+0iLuA0XiCmSoGa1PAJTJ9QkSS0RjWqZ8STC6QhzpA6LG03QSAWBWTbM0eorGR2yebrQuAfBxNjATKxPrEuPwjNcFxSBGKOZysGeQ0PepuTT7HH566HdyaWH9exaS0b29E44AYpJXxTwa9S0huoZnC2JOjPcIiUhfF7NIFFhCNR3JFuQ8mOrV5xstFHPp0zOI68dzXw1SCMabdiFylFxJPI541FUxjzt9S4guQq4aZ4JZcRiQavR1MYs5gSVUM2ZWDbGuBiIQYlFXGK1SQHze0UIxlzM9g7g+oNWCnv+S3Rsq1KRYzKNM3xKi6815uYXWVBnLs2qRVdiM147KKOZNTCQhIcI2czgTWsateMu8Wb4Udu1hnLkI+3WkIdqO3YB9xt5WHW/XLtw28l24G7itl20V9GSr0Ombl5WJuXIqfD4BSiE1ACTVm9hGFgyfC47zOdl1wH9apKETrG+BxfqO2zFwk91HvKflhBOJImBwYlYggWZqH6ZBzOWJHIusQHk+BczjQyUkXaPKgUUdWjBrHEhk010H3KdFEjpVBAwwRN+j+sqL5vDBvMyjD+aTiCJe1HLCr0RNMNAxK4D2kcjOwQE4WxN40hOqOliQoQVk2cNEt2FZIcJkDbhZixy+buAzjJF5+PpIkt+hXdSGt73Nn2PnPOT+NZt4L24Sss9NUki4TNKydifUN5zL8TfiUl0HbKRFEjhBygZXpO0ol8A21X1EPFqmXUjQsoaJ2Ihn1g6vKFjTZAtRoaSbAOYRkxJSjlGcbEAH+sgk20FOzLMpPAEZaZHyhqJpDTbWjufbDm3dZEOES2LKTSOKuEnLtFcJotbIERuAg/EknoED0Kbm0JQfFEtz984JEVs1C3com7phedEuOLr0bAZLSaKl+UaLXpNJgvXM4jZytW0dUi/Pfue6M3wnemKDNngnOjz/rPLRuBPW/sAFlkRMPS4drlNjQtQQG+9I3xSJjJiYU/363DlKNGq0fjhQsbarEBk5Kaf7DklyFBP4yfphMWI2kKVtjZYX1XDdLLIWrQ4JXJAv5XXSL7x4OMyhvpmOZ8R0nOrXJ8NRIlHjNcKCQrSRqbhGWA6PVVMs6hYrATSckBlHMeESWSMsbMwGKAEZPQ1PgHCUPdJ30gm8PDiAoX7I/yY1h6c9a/NF0yDk70ZpFJssYpqIumGbGezuWcatRAVAuPMm/xw1QDRCH9I6MflPRssnQSmk4k1Rvw1lZEFzuwEbcjvddcB9WqSh4+zvgMX6lt9RcJPdR0yn5YQTdBGwODErMccbxPnwQGW8XmQlxvFJaB4hKiHpHFEGHO7QguZ5LLbprgPS0yIJnagEFhiiH3O9QSmGS5HjXJ9CFBGhlhN+0QXBQsesOL7HIjsHByBpzdhJT4iS4ECGFgLOt6kqKiaGCX+DLbq40RrF4VMizi9Gtg1mULmziejDtWuYFyPF1sJwfnCYB3yrqYoXweFhHtirszl8YRs7zAN7zwou4G/8yhAjrwrkdGSBfkAAdhPHeUyMg0+2UiDHkKwyaoR8XVM+nDtRBcE7DWhViwRcoraMeAJNVzUITOmOI97UMgU8UVUUvEhfHYafQ3QcTl4n+/fIUwk0dqpqjMg8XXW2fO2HjWdRVcA7DnhRizhkql4oTKGmfF7GY4cArLZcVPbgoYmuIzbUMgU9URgUwEgf8D2eb5MIAEFrtqbRU9VgxObpqq8Jm4Br6mbRBOeFELybeObpZy+Z+InkoxMgGfuE99jP6TjyFfajgjoeRPjvuC65v6ovcvsW0ofdab2afYTeYbtmR7br755Yf7PrD/3x+YGdusPu6Xb4SCC/GziyL7unR3mGyKk79rfez6nA8stbuMs+b1sT8LZwN6XgbgWaoCW8L9uHmimj6uAWB0eJhKbX1t0feww1KziFHgaS26+2vzXkHbvfrE43nQ10H/1YUaXeUR8XwPN8xGFGOBwvfzTS7qsUNDelQAYOtIT3x9j4miAy437rf3BsbOordHFkHvvHodfb0/xfh1mFUQSZp6+bCksSdQVv0Tnr2UE0/bWCvLF7NK6+/Ib+qFIR+7F+WLATk0e0+C/jpQCDYdXXuKvYk2S9QTTdkVp5Y7Zcx0dqkR2bFNPJRkHGctiiijTbyv10VVmUPjguADpvg6RzcxTrIgiQN6jw7tSgewYRfXhSnjr7a2xem9ywLw9l6jd7xo9Myj5oJH84qz9uN6tn9vTwvEePEyzig/n642aYxg9P5P7QbZfyZ9Z2/U1/GOychkcymN1PhMEfFy2SYaTy0IQJ0QfZVld0tiUQgGTRmZPwgMpJgzDSdyejOXxVdDKa83AUx3PKkAgoAd6dSiTPIKLvkmt85cx/M20pdz3A5HKNQHL9uhkS47T1smYqZWiH/IBqkQwIlVLGYUQfpExV0CmTQABGWQ95wgMqpQzCSB+kjMVXxiljPRzFMiMioAR4dyolPIOIvkuZUmAp0/gp4xr1+/7mmd31O3mcmC3SkweFrtZDbXva3fePvx2ZnIb2x+6oEovdP92wOLdoz/3Ia5GMHJV7JjKIPsitMqdzK4EApIPOjYQHVO4ZhJE+yC2LL49zixz7Kf+n+ldLRnJUW7Gscu+dKa6/4fn02O/AqhOy5KQPmOq34YF0bbbMzEbUVs1OjdHln+1PiBz+IKHILO7beD/sMEG0b3yIMbbf6mVgET5t7cA45vQvnuXStJllv7u6+Hz+8fUb9v7q58sF++nHJXv50+vzt4zLEzC+y5qcfbo+/3jJXp6/fHNxGXoIzmyWvy4IDAs5bMs8yzkCbMyWapkZZd6okdW/yPTLi4fN+ut+KEV9mDP+d2omb1wxMsBKd/ShqHPP9m136CKFYQBak7rmh7uMK//XafUP/hNnbWWHpRrPeBWaVeRc4HTc7O96tmGbh030RMMd4OPK91gf9nOf/+5rt1p/HdrLAy1Pt/LHKaOxCubRfFwPc2vzl/enm8360LEfO1lX9nf2abM9weGW60v/fwfbHgoof55CD/Jjf/u42T+zVTRk8LPFOGT99m6o4J+7WcP7lBzLFrz2xtuSjb8YLCG9vfz4+W/s7U8fL9/FD3pps1X/+mdrM+H649WHNxfs04f/Rj8niXhe8u6cfWZXrz+ev39z8fnqPTqdwU5rv3r14ernN5evPr85//H9FXoI+0WsdvFmdgff5sO7q7+ev3/1t+urn8+DgOkfzObsrfmxzza3mznGa1nVh4umsid9tmpfiv7ia9dvwRHHwaFI4J10sNz0b2f/AzzQqEwKZW5kc3RyZWFtCmVuZG9iago4IDAgb2JqCjw8L1R5cGUvRm9udC9CYXNlRm9udC9BcmlhbFVuaWNvZGVNUyxCb2xkL1N1YnR5cGUvVHJ1ZVR5cGUvRW5jb2RpbmcvV2luQW5zaUVuY29kaW5nL0ZvbnREZXNjcmlwdG9yIDkgMCBSL05hbWUvRjAvRmlyc3RDaGFyIDMyL0xhc3RDaGFyIDI0My9XaWR0aHMgWzI3OSAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMjc5IDMzNCAwIDAgNTU3IDU1NyA1NTcgNTU3IDU1NyA1NTcgNTU3IDU1NyA1NTcgNTU3IDI3OSAwIDAgMCAwIDAgMCA2NjggNjY4IDcyMyA3MjMgNjY4IDYxMiA3NzkgMCAyNzkgNTAxIDY2OCAwIDgzNCA3MjMgNzc5IDY2OCAwIDcyMyAwIDYxMiA3MjMgMCA5NDUgMCA2NjggNjEyIDAgMCAwIDAgMCAwIDU1NyA1NTcgNTAxIDU1NyA1NTcgMjc5IDU1NyA1NTcgMjIzIDIyMyA1MDEgMjIzIDgzNCA1NTcgNTU3IDU1NyAwIDMzNCA1MDEgMjc5IDU1NyAwIDcyMyAwIDUwMSA1MDEgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgNTU3IF0+PgplbmRvYmoKOSAwIG9iago8PC9UeXBlL0ZvbnREZXNjcmlwdG9yL0ZvbnROYW1lL0FyaWFsVW5pY29kZU1TLEJvbGQvQXNjZW50IDcyOC9DYXBIZWlnaHQgNjY2L0Rlc2NlbnQgLTIxMC9JdGFsaWNBbmdsZSAwL1N0ZW1WIDg3L0ZsYWdzIDMyL0ZvbnRCQm94Wy0xMDExIC0zMzAgMjI2MCAxMDc4XT4+CmVuZG9iagoxMCAwIG9iago8PC9UeXBlL0ZvbnQvQmFzZUZvbnQvQXJpYWxVbmljb2RlTVMsQm9sZC9TdWJ0eXBlL1R5cGUwL0VuY29kaW5nL0lkZW50aXR5LUgvTmFtZS9GMS9EZXNjZW5kYW50Rm9udHNbMTQgMCBSXS9Ub1VuaWNvZGUgMTUgMCBSPj4KZW5kb2JqCjExIDAgb2JqCjw8L1R5cGUvRm9udC9CYXNlRm9udC9BcmlhbFVuaWNvZGVNUy9TdWJ0eXBlL1RydWVUeXBlL0VuY29kaW5nL1dpbkFuc2lFbmNvZGluZy9Gb250RGVzY3JpcHRvciAxMiAwIFIvTmFtZS9GMi9GaXJzdENoYXIgMzIvTGFzdENoYXIgMjQzL1dpZHRocyBbMjc4IDAgMCAwIDAgODg5IDAgMCAzMzMgMzMzIDAgMCAyNzggMzMzIDI3OCAwIDU1NiA1NTYgNTU2IDU1NiA1NTYgNTU2IDU1NiA1NTYgNTU2IDU1NiAyNzggMCAwIDAgMCAwIDAgNjY3IDY2NyA3MjIgNzIyIDY2NyAwIDc3OCAwIDI3OCA1MDAgNjY3IDU1NiA4MzMgNzIyIDc3OCA2NjcgMCA3MjIgNjY3IDYxMSA3MjIgMCA5NDQgMCA2NjcgNjExIDAgMCAwIDAgMCAwIDU1NiA1NTYgNTAwIDU1NiA1NTYgMjc4IDU1NiA1NTYgMjIyIDIyMiA1MDAgMjIyIDgzMyA1NTYgNTU2IDU1NiAwIDMzMyA1MDAgMjc4IDU1NiAwIDcyMiAwIDUwMCA1MDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgNTAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDc3OCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDU1NiBdPj4KZW5kb2JqCjEyIDAgb2JqCjw8L1R5cGUvRm9udERlc2NyaXB0b3IvRm9udE5hbWUvQXJpYWxVbmljb2RlTVMvQXNjZW50IDcyOC9DYXBIZWlnaHQgNjY2L0Rlc2NlbnQgLTIxMC9JdGFsaWNBbmdsZSAwL1N0ZW1WIDg3L0ZsYWdzIDMyL0ZvbnRCQm94Wy0xMDExIC0zMzAgMjI2MCAxMDc4XT4+CmVuZG9iagoxMyAwIG9iago8PC9UeXBlL0ZvbnQvQmFzZUZvbnQvQXJpYWxVbmljb2RlTVMvU3VidHlwZS9UeXBlMC9FbmNvZGluZy9JZGVudGl0eS1IL05hbWUvRjMvRGVzY2VuZGFudEZvbnRzWzE2IDAgUl0vVG9Vbmljb2RlIDE3IDAgUj4+CmVuZG9iagoxNCAwIG9iago8PC9UeXBlL0ZvbnQvU3VidHlwZS9DSURGb250VHlwZTIvQmFzZUZvbnQvQXJpYWxVbmljb2RlTVMsQm9sZC9DSURTeXN0ZW1JbmZvPDwvU3VwcGxlbWVudCAwL09yZGVyaW5nKElkZW50aXR5KS9SZWdpc3RyeShBZG9iZSk+Pi9EVyAyNzkvVyBbMTk4WzY2Nl0xOTlbNTU2XTIwMVs1MDBdMjE5WzU1Nl0yNTlbNTU2XTI2MFsyMjJdMjYyWzU1Nl0yODRbNjY2XTI4NVs1MDBdMzE4WzUwMF1dL0ZvbnREZXNjcmlwdG9yIDkgMCBSPj4KZW5kb2JqCjE1IDAgb2JqCjw8L0xlbmd0aCAyNjUvRmlsdGVyL0ZsYXRlRGVjb2RlPj4Kc3RyZWFtCnjaXdHNaoQwEAfwe54ixy09mLhuZUGErrbgoR/U7gNkk9EGagwxHnz7JpNlW3qI8HMy4/A3a7q2M9rT7N3NsgdPB22Ug2VenQR6gVEbwnOqtPRX4VNOwpIsNPfb4mHqzDCTqiLZRygu3m1098zv2R3J3pwCp81Id+emD+5Xa79hAuMpI3VNFQxhzouwr2ICmsWu33efmwWao3n6upwVLFZIcMKMQCrGmoeaVozvn2oCRv2rc5baLoP8Eu7PdVbUqDLpkHRMKlHtCcWPUZztUQVPKpLypDSzwJmcN6jDY1KbdEKFLaPKBpe9bhXXjnHeUpCrcyEgzBxziAloA7ffYmcbu+L5AVhEgTwKZW5kc3RyZWFtCmVuZG9iagoxNiAwIG9iago8PC9UeXBlL0ZvbnQvU3VidHlwZS9DSURGb250VHlwZTIvQmFzZUZvbnQvQXJpYWxVbmljb2RlTVMvQ0lEU3lzdGVtSW5mbzw8L1N1cHBsZW1lbnQgMC9PcmRlcmluZyhJZGVudGl0eSkvUmVnaXN0cnkoQWRvYmUpPj4vRFcgMjc4L1cgWzE5OFs2NjZdMTk5WzU1Nl0yMDFbNTAwXTIxOVs1NTZdMjU5WzU1Nl0yNjBbMjIyXTI2Mls1NTZdMjg0WzY2Nl0yODVbNTAwXTMxNls1MDBdMzE4WzUwMF1dL0ZvbnREZXNjcmlwdG9yIDEyIDAgUj4+CmVuZG9iagoxNyAwIG9iago8PC9MZW5ndGggMjY4L0ZpbHRlci9GbGF0ZURlY29kZT4+CnN0cmVhbQp42l3RzWqEMBAH8HueIsctPZioW1kQoasteOgHtfsA2WS0Qo0h6sG3r5mRbelB4ec44/hPVNZVbfuZR+9+1A3MvO2t8TCNi9fAr9D1lsmYm17Pu/CuB+VYtDU36zTDUNt2ZHnOoo+tOM1+5Yfn5F7csejNG/C97fjhUjabm8W5bxjAzlywouAG2m3Oi3KvagAeha7fZ5+rAx6jJX1djwYmpzR4ZTtguRDlQ8FzIZOngoE1/+pyb7u2+kv5P6+LtEBlpCPpRMpQ1RklT0FSJKhUklJSTKKZKc6UskQdH0kV6YxKqJZRbdsZVeLq+47hJ0K4t0z04v0WF54AphLy6C3cDsmNLnSF6wfkLoQPCmVuZHN0cmVhbQplbmRvYmoKeHJlZgowIDE4CjAwMDAwMDAwMDAgNjU1MzUgZiAKMDAwMDAwMDAwOSAwMDAwMCBuIAowMDAwMDAwMDc2IDAwMDAwIG4gCjAwMDAwMDAyMjUgMDAwMDAgbiAKMDAwMDAwMDI4MiAwMDAwMCBuIAowMDAwMDAwNDYyIDAwMDAwIG4gCjAwMDAwMDExNjEgMDAwMDAgbiAKMDAwMDAwMTM0MSAwMDAwMCBuIAowMDAwMDA2NzcwIDAwMDAwIG4gCjAwMDAwMDc0NzYgMDAwMDAgbiAKMDAwMDAwNzY0NiAwMDAwMCBuIAowMDAwMDA3Nzg5IDAwMDAwIG4gCjAwMDAwMDg1MDYgMDAwMDAgbiAKMDAwMDAwODY3MiAwMDAwMCBuIAowMDAwMDA4ODEwIDAwMDAwIG4gCjAwMDAwMDkwNzAgMDAwMDAgbiAKMDAwMDAwOTQwNCAwMDAwMCBuIAowMDAwMDA5NjY4IDAwMDAwIG4gCnRyYWlsZXIKPDwvU2l6ZSAxOC9Sb290IDEgMCBSL0luZm8gMiAwIFI+PgpzdGFydHhyZWYKMTAwMDUKJSVFT0YK</dtsf:Zawartosc>
 				</dtsf:Plik>
-		</InformacjeUzupelniajaceDoBilansu>
-		<InformacjeUzupelniajaceDoBilansu>
-			<dtsf:Opis>Opis załącznika</dtsf:Opis>
-				<dtsf:Plik>
-					<dtsf:Nazwa>noty.tropic.sp.zo.o.2020.pdf</dtsf:Nazwa>
-					<dtsf:Zawartosc>JVBERi0xLjMKMSAwIG9iago8PC9UeXBlL0NhdGFsb2cvUGFnZUxheW91dC9TaW5nbGVQYWdlL1BhZ2VzIDMgMCBSPj4KZW5kb2JqCjIgMCBvYmoKPDwvUHJvZHVjZXIoU3lub3BzZSBQREYgZW5naW5lIDEuMTguNDg5NCkvQ3JlYXRpb25EYXRlKEQ6MjAyMTA2MzAyMTEwNDNaKS9BdXRob3IoU3ByYXdvemRhbmllIGZpbmFuc293ZSkvTW9kRGF0ZShEOjIwMjEwNjMwMjExMDQzWik+PgplbmRvYmoKMyAwIG9iago8PC9UeXBlL1BhZ2VzL0tpZHNbNCAwIFJdL0NvdW50IDE+PgplbmRvYmoKNCAwIG9iago8PC9NZWRpYUJveFswIDAgNTk1IDg0Ml0vVHlwZS9QYWdlL1BhcmVudCAzIDAgUi9SZXNvdXJjZXM8PC9Gb250PDwvRjAgNiAwIFIvRjEgOCAwIFIvRjIgOSAwIFIvRjMgMTEgMCBSPj4vWE9iamVjdDw8Pj4vUHJvY1NldFsvUERGL1RleHQvSW1hZ2VDXT4+L0NvbnRlbnRzIDUgMCBSPj4KZW5kb2JqCjUgMCBvYmoKPDwvTGVuZ3RoIDQ2Mi9GaWx0ZXIvRmxhdGVEZWNvZGU+PgpzdHJlYW0KeNqNk99umzAUxu/9FOcykyZq8zdIUyVKSEXWAQtEkzLtggVSOWnsDIhQeM290GxIitrQCXFhy5zz+75z7PMH3c0xTBXVgGSLbFMxppA0CIP8imf0kCBdl38ty4YkQxM/mIfLb4678GC1XkXeJ0h2gkFeGV8wwdp9d9qTJ4HvLAZisWvexroezEJ48J+cIF61SV6CCMbS2d1cfQ3szZl6ay7iDS+r9KKjvfGkX3T69EkOlG15cUg3uxxOzemYj81kNN0NxGLXuo3d5FCfDzRnlDOxheYDfx9kN4zuT8AK0CHjcBLl1efPArPLMyaKFXRGpUJZjTV0pGPLFEK/x1KzIajm3gZCORYpK6NlxSvRt+wlBb7J2RmuD6K/fUNTjPb+y2OR1rzJUnE/sKUsZSWv82d+bdaeiu5DwfegYhUrV5JtKCqRj0sgiY0FzLK11oRgJssw8l2Io7+DXdNubX91YA3h49IJfHcdBoPVmgPVhrMo/OF7s7XvPAXhkBoZaKfr/0egn5tuopeP6OcvsWaIwAJhxTKgRroqV8tWReEHZJjWZf+C4jdS4nBqXtqkTm0RoZO2RXFVcJYCeTeqHVe3ZXrH7faSG6Pv6B8r5xCCCmVuZHN0cmVhbQplbmRvYmoKNiAwIG9iago8PC9UeXBlL0ZvbnQvQmFzZUZvbnQvQXJpYWxVbmljb2RlTVMsQm9sZC9TdWJ0eXBlL1RydWVUeXBlL0VuY29kaW5nL1dpbkFuc2lFbmNvZGluZy9Gb250RGVzY3JpcHRvciA3IDAgUi9OYW1lL0YwL0ZpcnN0Q2hhciAzMi9MYXN0Q2hhciA5MC9XaWR0aHMgWzI3OSAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgNjY4IDY2OCA3MjMgNzIzIDY2OCA2MTIgMCAwIDI3OSA1MDEgMCA1NTcgODM0IDcyMyA3NzkgNjY4IDAgNzIzIDY2OCAwIDcyMyAwIDAgMCAwIDYxMiBdPj4KZW5kb2JqCjcgMCBvYmoKPDwvVHlwZS9Gb250RGVzY3JpcHRvci9Gb250TmFtZS9BcmlhbFVuaWNvZGVNUyxCb2xkL0FzY2VudCA3MjgvQ2FwSGVpZ2h0IDY2Ni9EZXNjZW50IC0yMTAvSXRhbGljQW5nbGUgMC9TdGVtViA4Ny9GbGFncyAzMi9Gb250QkJveFstMTAxMSAtMzMwIDIyNjAgMTA3OF0+PgplbmRvYmoKOCAwIG9iago8PC9UeXBlL0ZvbnQvQmFzZUZvbnQvQXJpYWxVbmljb2RlTVMsQm9sZC9TdWJ0eXBlL1R5cGUwL0VuY29kaW5nL0lkZW50aXR5LUgvTmFtZS9GMS9EZXNjZW5kYW50Rm9udHNbMTIgMCBSXS9Ub1VuaWNvZGUgMTMgMCBSPj4KZW5kb2JqCjkgMCBvYmoKPDwvVHlwZS9Gb250L0Jhc2VGb250L0FyaWFsVW5pY29kZU1TL1N1YnR5cGUvVHJ1ZVR5cGUvRW5jb2RpbmcvV2luQW5zaUVuY29kaW5nL0ZvbnREZXNjcmlwdG9yIDEwIDAgUi9OYW1lL0YyL0ZpcnN0Q2hhciAzMi9MYXN0Q2hhciAyMTEvV2lkdGhzIFsyNzggMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDI3OCAwIDI3OCAwIDU1NiA1NTYgNTU2IDAgNTU2IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDY2NyAwIDcyMiA3MjIgNjY3IDAgNzc4IDAgMjc4IDAgNjY3IDU1NiAwIDcyMiA3NzggNjY3IDAgNzIyIDY2NyA2MTEgMCAwIDk0NCAwIDAgNjExIDAgMCAwIDAgMCAwIDU1NiA1NTYgNTAwIDU1NiA1NTYgMjc4IDU1NiAwIDIyMiAyMjIgNTAwIDIyMiA4MzMgNTU2IDU1NiA1NTYgMCAzMzMgNTAwIDI3OCA1NTYgMCA3MjIgMCA1MDAgNTAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgNzc4IF0+PgplbmRvYmoKMTAgMCBvYmoKPDwvVHlwZS9Gb250RGVzY3JpcHRvci9Gb250TmFtZS9BcmlhbFVuaWNvZGVNUy9Bc2NlbnQgNzI4L0NhcEhlaWdodCA2NjYvRGVzY2VudCAtMjEwL0l0YWxpY0FuZ2xlIDAvU3RlbVYgODcvRmxhZ3MgMzIvRm9udEJCb3hbLTEwMTEgLTMzMCAyMjYwIDEwNzhdPj4KZW5kb2JqCjExIDAgb2JqCjw8L1R5cGUvRm9udC9CYXNlRm9udC9BcmlhbFVuaWNvZGVNUy9TdWJ0eXBlL1R5cGUwL0VuY29kaW5nL0lkZW50aXR5LUgvTmFtZS9GMy9EZXNjZW5kYW50Rm9udHNbMTQgMCBSXS9Ub1VuaWNvZGUgMTUgMCBSPj4KZW5kb2JqCjEyIDAgb2JqCjw8L1R5cGUvRm9udC9TdWJ0eXBlL0NJREZvbnRUeXBlMi9CYXNlRm9udC9BcmlhbFVuaWNvZGVNUyxCb2xkL0NJRFN5c3RlbUluZm88PC9TdXBwbGVtZW50IDAvT3JkZXJpbmcoSWRlbnRpdHkpL1JlZ2lzdHJ5KEFkb2JlKT4+L0RXIDI3OS9XIFsxOThbNjY2XTI1OVs1NTZdXS9Gb250RGVzY3JpcHRvciA3IDAgUj4+CmVuZG9iagoxMyAwIG9iago8PC9MZW5ndGggMjIxL0ZpbHRlci9GbGF0ZURlY29kZT4+CnN0cmVhbQp42l2QsW7EIAyGd57C4506AOmpU8SSU6UMvVZN+wAcOClSA8ghQ96+QE7XqoMt/dif/WPe9efeuwT8jYIZMMHovCVcwkoG4YqT80w2YJ1JN1WzmXVkPMPDtiScez8G1raMv+fikmiDw7N8EEfGX8kiOT/B4bMbsh7WGL9xRp9AMKXA4pjnvOh40TMCL9Tv28cWEZqq5b7dBItL1AZJ+wlZK0T3pKAVUjwqht7+qzc7dR3Nl6a/3SfFdqiok6zsratMKb+7mzIrUfZbT1BtFUPO4/1KMcRClfgBTQxq6QplbmRzdHJlYW0KZW5kb2JqCjE0IDAgb2JqCjw8L1R5cGUvRm9udC9TdWJ0eXBlL0NJREZvbnRUeXBlMi9CYXNlRm9udC9BcmlhbFVuaWNvZGVNUy9DSURTeXN0ZW1JbmZvPDwvU3VwcGxlbWVudCAwL09yZGVyaW5nKElkZW50aXR5KS9SZWdpc3RyeShBZG9iZSk+Pi9EVyAyNzgvVyBbMTk4WzY2Nl0xOTlbNTU2XTI1OVs1NTZdMjYwWzIyMl0yODRbNjY2XTMxNls1MDBdXS9Gb250RGVzY3JpcHRvciAxMCAwIFI+PgplbmRvYmoKMTUgMCBvYmoKPDwvTGVuZ3RoIDI0My9GaWx0ZXIvRmxhdGVEZWNvZGU+PgpzdHJlYW0KeNpdkMFuwyAQRO98xR5T9QDYTnKxkCJXlXxIWtXtBxBYO0g1Rhgf/Pc1EKVVDyA9ltnRDG3al9aaAPTdT6rDAL2x2uM8LV4hXHEwlvACtFHhTulWo3SEbuJunQOOre0nUteEfmzDOfgVdq/lM3si9M1r9MYOsPtquo27xblvHNEGYEQI0Nhve87SXeSIQKPq9+1zdQhFYp7d1aRxdlKhl3ZAUjPWHATUjJeNIGj1v/khq669ukn/5zerRKJjpn0kzspEFc9UZSoS8SbR/pSozHQ8Jc/79ugeW3mEUYv3W85UXYoTgxiLj3bd5KIqnh9sZXYECmVuZHN0cmVhbQplbmRvYmoKeHJlZgowIDE2CjAwMDAwMDAwMDAgNjU1MzUgZiAKMDAwMDAwMDAwOSAwMDAwMCBuIAowMDAwMDAwMDc2IDAwMDAwIG4gCjAwMDAwMDAyMjUgMDAwMDAgbiAKMDAwMDAwMDI3NiAwMDAwMCBuIAowMDAwMDAwNDU0IDAwMDAwIG4gCjAwMDAwMDA5ODQgMDAwMDAgbiAKMDAwMDAwMTMwMyAwMDAwMCBuIAowMDAwMDAxNDczIDAwMDAwIG4gCjAwMDAwMDE2MTUgMDAwMDAgbiAKMDAwMDAwMjIyOSAwMDAwMCBuIAowMDAwMDAyMzk1IDAwMDAwIG4gCjAwMDAwMDI1MzMgMDAwMDAgbiAKMDAwMDAwMjcyOSAwMDAwMCBuIAowMDAwMDAzMDE5IDAwMDAwIG4gCjAwMDAwMDMyNDMgMDAwMDAgbiAKdHJhaWxlcgo8PC9TaXplIDE2L1Jvb3QgMSAwIFIvSW5mbyAyIDAgUj4+CnN0YXJ0eHJlZgozNTU1CiUlRU9GCg==</dtsf:Zawartosc>
-				</dtsf:Plik>
-		</InformacjeUzupelniajaceDoBilansu>
+		</DodatkoweInformacjeIObjasnienia>
 		<InformacjaDodatkowaDotyczacaPodatkuDochodowego>
 			<dtsf:P_ID_1>
-				<dtsf:RB>43524.00</dtsf:RB>
-				<dtsf:RP>12097.44</dtsf:RP>
+				<dtsf:RB>2907780.46</dtsf:RB>
+				<dtsf:RP>1468303.77</dtsf:RP>
 			</dtsf:P_ID_1>
 				<dtsf:P_ID_2>
 					<dtsf:Kwota>
@@ -281,16 +501,37 @@ d) środki pieniężne - środki pieniężne wykazuje się w wartości nominalne
 				<dtsf:P_ID_3>
 					<dtsf:Kwota>
 						<dtsf:RB>
-							<dtsf:KwotaA>0.00</dtsf:KwotaA>
+							<dtsf:KwotaA>462416.31</dtsf:KwotaA>
 							<dtsf:KwotaB>0.00</dtsf:KwotaB>
-							<dtsf:KwotaC>0.00</dtsf:KwotaC>
+							<dtsf:KwotaC>462416.31</dtsf:KwotaC>
 						</dtsf:RB>
 						<dtsf:RP>
-							<dtsf:KwotaA>0.00</dtsf:KwotaA>
+							<dtsf:KwotaA>462690.95</dtsf:KwotaA>
 							<dtsf:KwotaB>0.00</dtsf:KwotaB>
-							<dtsf:KwotaC>0.00</dtsf:KwotaC>
+							<dtsf:KwotaC>462690.95</dtsf:KwotaC>
 						</dtsf:RP>
 					</dtsf:Kwota>
+						<dtsf:PozycjaUzytkownika>
+							<dtsf:NazwaPozycji>róznice kursowe niezrealizowane</dtsf:NazwaPozycji>
+							<dtsf:Kwoty>
+								<dtsf:RB>
+									<dtsf:Kwota>
+										<dtsf:KwotaA>462416.31</dtsf:KwotaA>
+										<dtsf:KwotaB>0.00</dtsf:KwotaB>
+										<dtsf:KwotaC>462416.31</dtsf:KwotaC>
+									</dtsf:Kwota>
+									<dtsf:PodstawaPrawna>
+										<dtsf:Art>15a</dtsf:Art>
+										<dtsf:Ust>2</dtsf:Ust>
+									</dtsf:PodstawaPrawna>
+								</dtsf:RB>
+								<dtsf:RP>
+									<dtsf:KwotaA>462690.95</dtsf:KwotaA>
+									<dtsf:KwotaB>0.00</dtsf:KwotaB>
+									<dtsf:KwotaC>462690.95</dtsf:KwotaC>
+								</dtsf:RP>
+							</dtsf:Kwoty>
+						</dtsf:PozycjaUzytkownika>
 				</dtsf:P_ID_3>
 				<dtsf:P_ID_4>
 					<dtsf:Kwota>
@@ -323,16 +564,37 @@ d) środki pieniężne - środki pieniężne wykazuje się w wartości nominalne
 				<dtsf:P_ID_6>
 					<dtsf:Kwota>
 						<dtsf:RB>
-							<dtsf:KwotaA>0.00</dtsf:KwotaA>
+							<dtsf:KwotaA>536880.80</dtsf:KwotaA>
 							<dtsf:KwotaB>0.00</dtsf:KwotaB>
-							<dtsf:KwotaC>0.00</dtsf:KwotaC>
+							<dtsf:KwotaC>536880.80</dtsf:KwotaC>
 						</dtsf:RB>
 						<dtsf:RP>
-							<dtsf:KwotaA>0.00</dtsf:KwotaA>
+							<dtsf:KwotaA>384191.88</dtsf:KwotaA>
 							<dtsf:KwotaB>0.00</dtsf:KwotaB>
-							<dtsf:KwotaC>0.00</dtsf:KwotaC>
+							<dtsf:KwotaC>384191.88</dtsf:KwotaC>
 						</dtsf:RP>
 					</dtsf:Kwota>
+						<dtsf:PozycjaUzytkownika>
+							<dtsf:NazwaPozycji>róznice kursowe niezrealizowane </dtsf:NazwaPozycji>
+							<dtsf:Kwoty>
+								<dtsf:RB>
+									<dtsf:Kwota>
+										<dtsf:KwotaA>536880.80</dtsf:KwotaA>
+										<dtsf:KwotaB>0.00</dtsf:KwotaB>
+										<dtsf:KwotaC>536880.80</dtsf:KwotaC>
+									</dtsf:Kwota>
+									<dtsf:PodstawaPrawna>
+										<dtsf:Art>…15a</dtsf:Art>
+										<dtsf:Ust>3</dtsf:Ust>
+									</dtsf:PodstawaPrawna>
+								</dtsf:RB>
+								<dtsf:RP>
+									<dtsf:KwotaA>384191.88</dtsf:KwotaA>
+									<dtsf:KwotaB>0.00</dtsf:KwotaB>
+									<dtsf:KwotaC>384191.88</dtsf:KwotaC>
+								</dtsf:RP>
+							</dtsf:Kwoty>
+						</dtsf:PozycjaUzytkownika>
 				</dtsf:P_ID_6>
 				<dtsf:P_ID_7>
 					<dtsf:Kwota>
@@ -356,26 +618,11 @@ d) środki pieniężne - środki pieniężne wykazuje się w wartości nominalne
 							<dtsf:KwotaC>0.00</dtsf:KwotaC>
 						</dtsf:RB>
 						<dtsf:RP>
-							<dtsf:KwotaA>10230.00</dtsf:KwotaA>
+							<dtsf:KwotaA>0.00</dtsf:KwotaA>
 							<dtsf:KwotaB>0.00</dtsf:KwotaB>
-							<dtsf:KwotaC>10230.00</dtsf:KwotaC>
+							<dtsf:KwotaC>0.00</dtsf:KwotaC>
 						</dtsf:RP>
 					</dtsf:Kwota>
-						<dtsf:PozycjaUzytkownika>
-							<dtsf:NazwaPozycji>za rok 2016 nie więcej niż 50%</dtsf:NazwaPozycji>
-							<dtsf:Kwoty>
-								<dtsf:RB>
-									<dtsf:KwotaA>0.00</dtsf:KwotaA>
-									<dtsf:KwotaB>0.00</dtsf:KwotaB>
-									<dtsf:KwotaC>0.00</dtsf:KwotaC>
-								</dtsf:RB>
-								<dtsf:RP>
-									<dtsf:KwotaA>10230.00</dtsf:KwotaA>
-									<dtsf:KwotaB>0.00</dtsf:KwotaB>
-									<dtsf:KwotaC>10230.00</dtsf:KwotaC>
-								</dtsf:RP>
-							</dtsf:Kwoty>
-						</dtsf:PozycjaUzytkownika>
 				</dtsf:P_ID_8>
 				<dtsf:P_ID_9>
 					<dtsf:Kwota>
@@ -392,21 +639,63 @@ d) środki pieniężne - środki pieniężne wykazuje się w wartości nominalne
 					</dtsf:Kwota>
 				</dtsf:P_ID_9>
 				<dtsf:P_ID_10>
-					<dtsf:RB>43524.00</dtsf:RB>
-					<dtsf:RP>1867.00</dtsf:RP>
+					<dtsf:RB>2982245.00</dtsf:RB>
+					<dtsf:RP>1389805.00</dtsf:RP>
 				</dtsf:P_ID_10>
 					<dtsf:P_ID_11>
-						<dtsf:RB>3917.00</dtsf:RB>
-						<dtsf:RP>168.00</dtsf:RP>
+						<dtsf:RB>0.00</dtsf:RB>
+						<dtsf:RP>0.00</dtsf:RP>
 					</dtsf:P_ID_11>
 		</InformacjaDodatkowaDotyczacaPodatkuDochodowego>
-	</InformacjeUzupelniajaceDoBilansuJednostkaMikro>
-<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature_adaae122-4e96-4c44-bb33-b620d9b421a5_49"><ds:SignedInfo Id="SignedInfo_adaae122-4e96-4c44-bb33-b620d9b421a5_11"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="Reference1_adaae122-4e96-4c44-bb33-b620d9b421a5_77" URI=""><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/TR/1999/REC-xpath-19991116"><ds:XPath>not(ancestor-or-self::ds:Signature)</ds:XPath></ds:Transform></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>ex5NnrCdpoJKkcUrdpzL8FZin4mBvy3DaudexK+KX0s=</ds:DigestValue></ds:Reference><ds:Reference Id="SignedProperties-Reference_adaae122-4e96-4c44-bb33-b620d9b421a5_78" Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties_adaae122-4e96-4c44-bb33-b620d9b421a5_1e"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>QRy1e3ar8fQ3beQcyuBSd+JOLxW3MNr98rl86r8mvf4=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue_adaae122-4e96-4c44-bb33-b620d9b421a5_02">Ul091oMgUvHU5MPWd4t3WARehIgv4f6GyTWkX3PaEw3tEKgEVels1YnvjHCa5BiQ
-UAhXTHu6iJ7IPNZxkq1uTg9+1+fcsQHdrhZzT7t9r/gqIM3BBsXC8bfI10ndXipR
-49uGg5mnUc6vKZ315snIMFonf78cnKCrdEPVv89hTcfT4B8x+EM1rvU1PChQlMpZ
-0a/BJEgrAylf3bJrMIFrO0XiO0FNg6Bi/T1NE5QZMIxNWTU0+i0zLVtmmRocYg8i
-kl+JJDYD1lNC3cTxFOj6kC0zeSMyaPCVuB4dhhIII23XtNYkQYC/OqA2hXy2i5Qd
-FVU11T7t5gJJZxKfB5BwxA==</ds:SignatureValue><ds:KeyInfo Id="KeyInfo_adaae122-4e96-4c44-bb33-b620d9b421a5_74"><ds:X509Data><ds:X509Certificate>MIIGkjCCBHqgAwIBAgIQBHdlGndBXFcnpLwNnNOBlTANBgkqhkiG9w0BAQsFADBl
+	</DodatkoweInformacjeIObjasnieniaJednostkaMala>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature_2c6b4e2b-4459-4d65-be91-ac4561bf60e0_1c"><ds:SignedInfo Id="SignedInfo_2c6b4e2b-4459-4d65-be91-ac4561bf60e0_44"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="Reference1_2c6b4e2b-4459-4d65-be91-ac4561bf60e0_22" URI=""><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/TR/1999/REC-xpath-19991116"><ds:XPath>not(ancestor-or-self::ds:Signature)</ds:XPath></ds:Transform></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>JRiW/blRZRgrNydvJERNkeLVnKSYs8EUGszat/9MA9Y=</ds:DigestValue></ds:Reference><ds:Reference Id="SignedProperties-Reference_2c6b4e2b-4459-4d65-be91-ac4561bf60e0_2d" Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties_2c6b4e2b-4459-4d65-be91-ac4561bf60e0_4b"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>9KkguNFH3bguLu1H4HiH/y6U4YIg3R4rPJbh0i8McYI=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue_2c6b4e2b-4459-4d65-be91-ac4561bf60e0_57">aOJR8f9K1DAR47H4qeIuBg9uOzpyhrcvBTZss45UtLvl6gKsHfE5v0am/s+e8OkV
+OUoklTBAMp/rb9whIFj34euiWBc3L7Mj68/38brcokC3Bwq8b2gzfJy8gG0NHLmE
+zuF5qTt5X1YWNjyUMhB/V6EsyvJTcOz3JPNRjc209dnD82wL/wHl82FAbbv8JoYq
+3Von5IlORlWp1SSOysTUz49/BFgjZNFkyQPVNf7r22NfgsR9Js6yWwCgVr2W/HQ3
+6n/EUnPaD3OiUs4L7p0kwr3Ugem2k6mtOKCnoQ377mewg/TFQqSNdyhcKF+jnkSe
+lr9+zcXC0QKmlrN+Uc/zSw==</ds:SignatureValue><ds:KeyInfo Id="KeyInfo_2c6b4e2b-4459-4d65-be91-ac4561bf60e0_21"><ds:X509Data><ds:X509Certificate>MIIGijCCBHKgAwIBAgIQcr/6dh+9eicVGKVs8kHXEzANBgkqhkiG9w0BAQsFADBl
+MQswCQYDVQQGEwJQTDEhMB8GA1UECgwYQXNzZWNvIERhdGEgU3lzdGVtcyBTLkEu
+MRgwFgYDVQQDDA9DZXJ0dW0gUUNBIDIwMTcxGTAXBgNVBGEMEFZBVFBMLTUxNzAz
+NTk0NTgwHhcNMTkxMjA1MjE1ODE1WhcNMjExMjA0MjE1ODE1WjBvMRwwGgYDVQQD
+DBNFTMW7QklFVEEgTEFDSE9XU0tBMRIwEAYDVQQqDAlFTMW7QklFVEExEjAQBgNV
+BAQMCUxBQ0hPV1NLQTEaMBgGA1UEBRMRUE5PUEwtNjEwMjA0MTAyMDIxCzAJBgNV
+BAYTAlBMMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAig+8PZuCPDP2
+/fxZgeHRVxPmbntJnw2rzpQ3pXJHTFEiGuxXBZKpbDFK4IkrD7B2IapJk6DgNwxk
+0SpEgMiUFtG4SOh89ZT3mTJQbkJRjLRkIsgPxyhy2i/4YrgSOeaR7fo8xZkIxw2E
+NATdXZBXrgVuN62JkOMXauDO9g4k+8bzJ1Ai5Rhmh9LV9pjwB7d/tqmE3ePzbYv+
+uPmqEnXkFp8xlJQntlpr3/IvQYr2X8SAQxwEhh2vlNDHTxdSd00kfghcO+BT5pm9
+LalS1oyiwHzwuL0UHZuKYe9YQWPL9dFINFuQaxwuwz/+sJ+f0yscLjOKuxdlV8iq
+R9COUZiRZQIDAQABo4ICKjCCAiYwDAYDVR0TAQH/BAIwADA2BgNVHR8ELzAtMCug
+KaAnhiVodHRwOi8vcWNhLmNybC5jZXJ0dW0ucGwvcWNhXzIwMTcuY3JsMHIGCCsG
+AQUFBwEBBGYwZDAsBggrBgEFBQcwAYYgaHR0cDovL3FjYS0yMDE3LnFvY3NwLWNl
+cnR1bS5jb20wNAYIKwYBBQUHMAKGKGh0dHA6Ly9yZXBvc2l0b3J5LmNlcnR1bS5w
+bC9xY2FfMjAxNy5jZXIwHwYDVR0jBBgwFoAUJ/HYTmBQaLZh/mgbKGxt5AtzCU0w
+HQYDVR0OBBYEFJ3voYh4zt1QItgFHfNBucSXDEsbMA4GA1UdDwEB/wQEAwIGwDBV
+BgNVHSAETjBMMAkGBwQAi+xAAQIwPwYMKoRoAYb2dwIEAQwBMC8wLQYIKwYBBQUH
+AgEWIWh0dHA6Ly93d3cuY2VydHVtLnBsL3JlcG96eXRvcml1bTCBwgYIKwYBBQUH
+AQMEgbUwgbIwCAYGBACORgEBMAgGBgQAjkYBBDCBhgYGBACORgEFMHwwPBY2aHR0
+cHM6Ly9yZXBvc2l0b3J5LmNlcnR1bS5wbC9QRFMvQ2VydHVtX1FDQS1QRFNfRU4u
+cGRmEwJlbjA8FjZodHRwczovL3JlcG9zaXRvcnkuY2VydHVtLnBsL1BEUy9DZXJ0
+dW1fUUNBLVBEU19QTC5wZGYTAnBsMBMGBgQAjkYBBjAJBgcEAI5GAQYBMA0GCSqG
+SIb3DQEBCwUAA4ICAQCCrklb/lK3S9wmcaayc94BXQ/VrEFaY7TRIokUilxk+IVE
+Pju80X48VE91xIx2KaJ8iWrEFg5mV1dfR30iZ4e4P92Y2GSe4aCslXI8v6Xiv2rA
+8KdkR0OLmUcdL9/TL451a3Mshji0nOyJMO9dILzvn0Q99EgW29cZVt3CQYzscXon
+OLrJW46bVj0Vdl4yiI65ie6rlT++vnq2xJwlBKI8CyHbtu4vGRZUq8NzrVjOaAQR
+iLCfB9F0p92u3j9a6DTY+1rZV4mZgSKhlDxazVWHSqKWV1NclOpsgBcOBNjex2bk
+9TMiwE1+G9FYxIU23kIu/iJFLpopc+mkNetuIZKK3lZFA1BgzWqXRq00faMFoQr/
+dmDCvMt+Gd3dEcrU8bPMykcDW2iaEx5cqGfwKQfMroVwYzFENShcnkVnyAXyqivW
+b+g2/oFrigcpOuWHI5uuzwS5tGZyUIie2kDYo9ea3YXyJLZmktc23lr9p0cS4i7r
+jBzLEDSzKHnS+Ye5Xj95CKX9dsJ4wfVmPpErn69Pug6zig465lOH1bci733F3ryh
+w5AYwGWKDvAh7nZjoeTdpsqC7Jyi6iu7RdEGi8nXMuQA6lEmycgOteZLNucNtcgL
+/MQsRWjH0CWIOKC7afcCr/co2lZhwkixuaa1We7qxfUsp5acd6vri3n8issOYg==</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties_2c6b4e2b-4459-4d65-be91-ac4561bf60e0_46" Target="#Signature_2c6b4e2b-4459-4d65-be91-ac4561bf60e0_1c"><xades:SignedProperties Id="SignedProperties_2c6b4e2b-4459-4d65-be91-ac4561bf60e0_4b"><xades:SignedSignatureProperties Id="SignedSignatureProperties_2c6b4e2b-4459-4d65-be91-ac4561bf60e0_0f"><xades:SigningTime>2021-06-30T18:48:21Z</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>yehEQD62l9nmj0p6kfL14Qhxbkh7NmYlJbUr6wERBgM=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0C10564154504C2D35313730333539343538,CN=Certum QCA 2017,O=Asseco Data Systems S.A.,C=PL</ds:X509IssuerName><ds:X509SerialNumber>152528800180607750322904090299301222163</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties Id="SignedDataObjectProperties_2c6b4e2b-4459-4d65-be91-ac4561bf60e0_4e"><xades:DataObjectFormat ObjectReference="#Reference1_2c6b4e2b-4459-4d65-be91-ac4561bf60e0_22"><xades:Description>MIME-Version: 1.0
+Content-Type: text/xml
+Content-Transfer-Encoding: binary
+Content-Disposition: filename="sprawozdanie xml tropic sp.kom. 2020.xml"</xades:Description><xades:ObjectIdentifier><xades:Identifier Qualifier="OIDAsURI">http://www.certum.pl/OIDAsURI/signedFile/1.2.616.1.113527.3.1.1.3.1</xades:Identifier><xades:Description>Opis formatu dokumentu oraz jego pełna nazwa</xades:Description><xades:DocumentationReferences><xades:DocumentationReference>http://www.certum.pl/OIDAsURI/signedFile.pdf</xades:DocumentationReference></xades:DocumentationReferences></xades:ObjectIdentifier><xades:MimeType>text/xml</xades:MimeType></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties><xades:UnsignedProperties Id="UnsignedProperties_2c6b4e2b-4459-4d65-be91-ac4561bf60e0_50"/></xades:QualifyingProperties></ds:Object></ds:Signature><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature_17c12f52-3815-42d8-9cc4-379162f5fa81_11"><ds:SignedInfo Id="SignedInfo_17c12f52-3815-42d8-9cc4-379162f5fa81_49"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="Reference1_17c12f52-3815-42d8-9cc4-379162f5fa81_2f" URI=""><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/TR/1999/REC-xpath-19991116"><ds:XPath>not(ancestor-or-self::ds:Signature)</ds:XPath></ds:Transform></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>JRiW/blRZRgrNydvJERNkeLVnKSYs8EUGszat/9MA9Y=</ds:DigestValue></ds:Reference><ds:Reference Id="SignedProperties-Reference_17c12f52-3815-42d8-9cc4-379162f5fa81_20" Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties_17c12f52-3815-42d8-9cc4-379162f5fa81_46"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>2L313ebXzOIqVF+I84QhWMsBJZOerQy7syRBmETFxPE=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue_17c12f52-3815-42d8-9cc4-379162f5fa81_5a">Lc4EnI3g54HD87sjoehMjdl9sTRHGOD5aWr0gfpYVId/WBXHg1caySmCeFriFPvS
+pL6CvfwwaiboF1W7E0doBTzv4lKAIkOmQgf209JxXHxgovbjvqszAFSs7erHuKk1
+UGqmc95th4qiiKTKhtVBQDZmsHhBNy/jx3OZoszrrCvWHKaPmVJr2bWkJ2daC6Xe
+BCReZrkd3jvXX34XOZsXm+gyDBNHR647bqHEsbvVBztKE2UBn3seS8OGbNWZjFJZ
+1UeIiGW4nGxAqi/w8VY6oC70FwTwE+YTpO19WJAgyTswv4ULB29ZGB02ww+O0iYU
+4R77I0nAL7aPj19y0rzCPA==</ds:SignatureValue><ds:KeyInfo Id="KeyInfo_17c12f52-3815-42d8-9cc4-379162f5fa81_2c"><ds:X509Data><ds:X509Certificate>MIIGkjCCBHqgAwIBAgIQBHdlGndBXFcnpLwNnNOBlTANBgkqhkiG9w0BAQsFADBl
 MQswCQYDVQQGEwJQTDEhMB8GA1UECgwYQXNzZWNvIERhdGEgU3lzdGVtcyBTLkEu
 MRgwFgYDVQQDDA9DZXJ0dW0gUUNBIDIwMTcxGTAXBgNVBGEMEFZBVFBMLTUxNzAz
 NTk0NTgwHhcNMjAwNTI0MDgzMTU4WhcNMjMwNTI0MDgzMTU4WjB3MSAwHgYDVQQD
@@ -441,7 +730,49 @@ GZw2s6TaWoB93s43xIkky9piVwM9abOhuleCwnBmi74jCpw1WcQ20NQAH+7Yj4GL
 T13w2CIks8nz9OGycvKkssKKnqimHTlGbwOR5QR4XntocL+UYrAsJeFiCp/j9/XE
 y8x3BQEddX3YQ7DhsFk4dVGzgcGiEnW5yFJmgh9LYYG3xDLno/hmFg6Bl4MImp5G
 amZ66jjhu/2GCFrzsFP5qPqG8pQRXyGF3ZLgKfhX+BBRJ3A13wvaIase/QrY/o3r
-Z0IeSNIr</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties_adaae122-4e96-4c44-bb33-b620d9b421a5_13" Target="#Signature_adaae122-4e96-4c44-bb33-b620d9b421a5_49"><xades:SignedProperties Id="SignedProperties_adaae122-4e96-4c44-bb33-b620d9b421a5_1e"><xades:SignedSignatureProperties Id="SignedSignatureProperties_adaae122-4e96-4c44-bb33-b620d9b421a5_5a"><xades:SigningTime>2021-06-30T18:58:15Z</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>eoXC+1kD9bYJk85TWFFsT+XdIedDP+TQCvlTxF91Eis=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0C10564154504C2D35313730333539343538,CN=Certum QCA 2017,O=Asseco Data Systems S.A.,C=PL</ds:X509IssuerName><ds:X509SerialNumber>5936845929515234581450740733828104597</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties Id="SignedDataObjectProperties_adaae122-4e96-4c44-bb33-b620d9b421a5_1b"><xades:DataObjectFormat ObjectReference="#Reference1_adaae122-4e96-4c44-bb33-b620d9b421a5_77"><xades:Description>MIME-Version: 1.0
+Z0IeSNIr</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties_17c12f52-3815-42d8-9cc4-379162f5fa81_4b" Target="#Signature_17c12f52-3815-42d8-9cc4-379162f5fa81_11"><xades:SignedProperties Id="SignedProperties_17c12f52-3815-42d8-9cc4-379162f5fa81_46"><xades:SignedSignatureProperties Id="SignedSignatureProperties_17c12f52-3815-42d8-9cc4-379162f5fa81_02"><xades:SigningTime>2021-06-30T11:34:53Z</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>eoXC+1kD9bYJk85TWFFsT+XdIedDP+TQCvlTxF91Eis=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0C10564154504C2D35313730333539343538,CN=Certum QCA 2017,O=Asseco Data Systems S.A.,C=PL</ds:X509IssuerName><ds:X509SerialNumber>5936845929515234581450740733828104597</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties Id="SignedDataObjectProperties_17c12f52-3815-42d8-9cc4-379162f5fa81_43"><xades:DataObjectFormat ObjectReference="#Reference1_17c12f52-3815-42d8-9cc4-379162f5fa81_2f"><xades:Description>MIME-Version: 1.0
 Content-Type: text/xml
 Content-Transfer-Encoding: binary
-Content-Disposition: filename="Sprawozdanie xml tropic sp. z o.o. 2020.xml"</xades:Description><xades:ObjectIdentifier><xades:Identifier Qualifier="OIDAsURI">http://www.certum.pl/OIDAsURI/signedFile/1.2.616.1.113527.3.1.1.3.1</xades:Identifier><xades:Description>Opis formatu dokumentu oraz jego pełna nazwa</xades:Description><xades:DocumentationReferences><xades:DocumentationReference>http://www.certum.pl/OIDAsURI/signedFile.pdf</xades:DocumentationReference></xades:DocumentationReferences></xades:ObjectIdentifier><xades:MimeType>text/xml</xades:MimeType></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties><xades:UnsignedProperties Id="UnsignedProperties_adaae122-4e96-4c44-bb33-b620d9b421a5_05"/></xades:QualifyingProperties></ds:Object></ds:Signature></JednostkaMikro>
+Content-Disposition: filename="sprawozdanie xml tropic sp.kom. 2020.xml"</xades:Description><xades:ObjectIdentifier><xades:Identifier Qualifier="OIDAsURI">http://www.certum.pl/OIDAsURI/signedFile/1.2.616.1.113527.3.1.1.3.1</xades:Identifier><xades:Description>Opis formatu dokumentu oraz jego pełna nazwa</xades:Description><xades:DocumentationReferences><xades:DocumentationReference>http://www.certum.pl/OIDAsURI/signedFile.pdf</xades:DocumentationReference></xades:DocumentationReferences></xades:ObjectIdentifier><xades:MimeType>text/xml</xades:MimeType></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties><xades:UnsignedProperties Id="UnsignedProperties_17c12f52-3815-42d8-9cc4-379162f5fa81_5d"/></xades:QualifyingProperties></ds:Object></ds:Signature><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature_81362e80-6b00-415f-ab6a-dd4121042421_19"><ds:SignedInfo Id="SignedInfo_81362e80-6b00-415f-ab6a-dd4121042421_41"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="Reference1_81362e80-6b00-415f-ab6a-dd4121042421_27" URI=""><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/TR/1999/REC-xpath-19991116"><ds:XPath>not(ancestor-or-self::ds:Signature)</ds:XPath></ds:Transform></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>JRiW/blRZRgrNydvJERNkeLVnKSYs8EUGszat/9MA9Y=</ds:DigestValue></ds:Reference><ds:Reference Id="SignedProperties-Reference_81362e80-6b00-415f-ab6a-dd4121042421_28" Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties_81362e80-6b00-415f-ab6a-dd4121042421_4e"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>R6JFyCUW0V+B8eXgE2JCqRFUxC+6WUDYtU48OoJ7CRg=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue_81362e80-6b00-415f-ab6a-dd4121042421_52">BRl+BhXNHCWpJIAhMkOrEd5N+6/HjOK1/gIcxX5atqzEpCkOpjcfjxNrZaHtXA4m
+7U+vmoKAAeHzh7hIxg6vJXPb2+/Szj/W3uAcrqpp9dN1mnKpLEaF1VDCK455nIe/
+45zrd2Q3yDBYAfJxEZR2MhyQDiph+jiLSF/IGjO/TOP4a6V1t+hxxSqNiqOeRevJ
+SuQSaf2wQIJ7Xl5EyWuKPdfTuJB7Md3SKZZfzQR5Iav+XkXg5ihRX/lzasjVGmMw
+7wQ2txD1Bc8cKPCTnMQlH6fSf29aVpx4UOUBkno68w1pUfBMi1Ovi9Bps5P0j/ld
+b5kXX1+c/PycOYuT0zQXQw==</ds:SignatureValue><ds:KeyInfo Id="KeyInfo_81362e80-6b00-415f-ab6a-dd4121042421_24"><ds:X509Data><ds:X509Certificate>MIIGiDCCBHCgAwIBAgIQBfCzKT+6+XCGr9hIL3VtDzANBgkqhkiG9w0BAQsFADBl
+MQswCQYDVQQGEwJQTDEhMB8GA1UECgwYQXNzZWNvIERhdGEgU3lzdGVtcyBTLkEu
+MRgwFgYDVQQDDA9DZXJ0dW0gUUNBIDIwMTcxGTAXBgNVBGEMEFZBVFBMLTUxNzAz
+NTk0NTgwHhcNMjAwNTI0MDgxNzE3WhcNMjMwNTI0MDgxNzE3WjBtMRswGQYDVQQD
+DBJKYW4gTWlrb8WCYWogSnVyZWsxFTATBgNVBCoMDEphbiBNaWtvxYJhajEOMAwG
+A1UEBAwFSnVyZWsxGjAYBgNVBAUTEVBOT1BMLTg0MTExNzAwNTUyMQswCQYDVQQG
+EwJQTDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJiXnPvb2/T2oJZ0
+oqN6V+1TT5Gh5rwRb045DL6lqHcGoSmoKAIdJ3NZUgc/nhxKegl4wT6eH+cvVt2D
+9ijdaq8Yb18cYtiE0MVZJTL8b92KADzBjpgvjw8KtpVpKLE3j5L7CDS5gXGNynxM
+/4RJwsT8hfbsZLDSg1SJYjmRGau4RjhYvXyyrzKI5XoM0/x5+rumpBZRV9qZSIDE
+dVaDAOxh1Ut40205V3SmXpP/pI/1jJ6Hd0wDUwQ9qci27u7Y2ayyGS5LT4W5lhpq
+a4dOS0af1jXRJtB6m/jUVDUnEU+C08HZ9m6T20kagDMGbCHsVigX+X6FBJ/79cTE
+Fq2+1uECAwEAAaOCAiowggImMAwGA1UdEwEB/wQCMAAwNgYDVR0fBC8wLTAroCmg
+J4YlaHR0cDovL3FjYS5jcmwuY2VydHVtLnBsL3FjYV8yMDE3LmNybDByBggrBgEF
+BQcBAQRmMGQwLAYIKwYBBQUHMAGGIGh0dHA6Ly9xY2EtMjAxNy5xb2NzcC1jZXJ0
+dW0uY29tMDQGCCsGAQUFBzAChihodHRwOi8vcmVwb3NpdG9yeS5jZXJ0dW0ucGwv
+cWNhXzIwMTcuY2VyMB8GA1UdIwQYMBaAFCfx2E5gUGi2Yf5oGyhsbeQLcwlNMB0G
+A1UdDgQWBBQ1IqwJ5b1A4KrSx0NgGM5HNXYkVjAOBgNVHQ8BAf8EBAMCBsAwVQYD
+VR0gBE4wTDAJBgcEAIvsQAECMD8GDCqEaAGG9ncCBAEMATAvMC0GCCsGAQUFBwIB
+FiFodHRwOi8vd3d3LmNlcnR1bS5wbC9yZXBvenl0b3JpdW0wgcIGCCsGAQUFBwED
+BIG1MIGyMAgGBgQAjkYBATAIBgYEAI5GAQQwgYYGBgQAjkYBBTB8MDwWNmh0dHBz
+Oi8vcmVwb3NpdG9yeS5jZXJ0dW0ucGwvUERTL0NlcnR1bV9RQ0EtUERTX0VOLnBk
+ZhMCZW4wPBY2aHR0cHM6Ly9yZXBvc2l0b3J5LmNlcnR1bS5wbC9QRFMvQ2VydHVt
+X1FDQS1QRFNfUEwucGRmEwJwbDATBgYEAI5GAQYwCQYHBACORgEGATANBgkqhkiG
+9w0BAQsFAAOCAgEAC1k9xvJfLzYi/ZtyL/CeOhPL0wkw5lT0fThY6pqpi4Fe/WEB
+YVYVond60EF4P5F0+z/uwdHfBOQ9IIVZzJgZ7edbdHf/s5BgQhJw3Osv2y/LIvnf
+UEe2v811oLJO90Oprr1zBm/zwrvl+zYefAX4SEv+wrHZgA4kK2J9cSxEvjHjdFTB
+Mt9zg56u0SX1FjY5GzvweW7F+nBQaW+ApvQf5UM+c7PBmJVhexyY1VT9zkynyZ6l
+xHd/IpfFp2piXuLxryRGr091XVUMogapMHh3DiePZTYdL1MKEN59c5OB5n2FvxSW
+lP0k1rBNmSZSzI1+1shacwRUzBBfkTwGIQCVWM8qN05j3oDEbxMfZAeyu41C2iu9
+zLUG6wYPA+WG6/p09i59sSrkyDz/eUMXNjtpUibKzWH0K0OABxqJ91oyZAeprGKg
+AmWvR8g1JXaetrqg9fe0kKaEi8AXfTijCuCkRllrVsFkl8sQGaYeU/NU9mqIjrHS
+ywA8XIaZR6Baaep9h7jYyfL7kqnn8o18tQk1U5g5tt7b0skzl2J1o5FkNEG5sJ4N
+siWAA7iLo90NZQ6SCbDj7VVqlaHPVTXUFIoaMfm01uOdeAxvbnfglExW6fFgiLmR
+3Ljgq/MsaWh+xYWz2V4akKZFT+A1doDpjzqrcgeQ7wfyqF7UMR008gdqkqo=</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties_81362e80-6b00-415f-ab6a-dd4121042421_43" Target="#Signature_81362e80-6b00-415f-ab6a-dd4121042421_19"><xades:SignedProperties Id="SignedProperties_81362e80-6b00-415f-ab6a-dd4121042421_4e"><xades:SignedSignatureProperties Id="SignedSignatureProperties_81362e80-6b00-415f-ab6a-dd4121042421_0a"><xades:SigningTime>2021-06-30T11:36:21Z</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>FI88EaNiHR+PAFv8TvpYB6ksEo5EZzc6plIyZlPXrEg=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0C10564154504C2D35313730333539343538,CN=Certum QCA 2017,O=Asseco Data Systems S.A.,C=PL</ds:X509IssuerName><ds:X509SerialNumber>7895925044370248495397926993533431055</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties Id="SignedDataObjectProperties_81362e80-6b00-415f-ab6a-dd4121042421_4b"><xades:DataObjectFormat ObjectReference="#Reference1_81362e80-6b00-415f-ab6a-dd4121042421_27"><xades:Description>MIME-Version: 1.0
+Content-Type: text/xml
+Content-Transfer-Encoding: binary
+Content-Disposition: filename="sprawozdanie xml tropic sp.kom. 2020.xml"</xades:Description><xades:ObjectIdentifier><xades:Identifier Qualifier="OIDAsURI">http://www.certum.pl/OIDAsURI/signedFile/1.2.616.1.113527.3.1.1.3.1</xades:Identifier><xades:Description>Opis formatu dokumentu oraz jego pełna nazwa</xades:Description><xades:DocumentationReferences><xades:DocumentationReference>http://www.certum.pl/OIDAsURI/signedFile.pdf</xades:DocumentationReference></xades:DocumentationReferences></xades:ObjectIdentifier><xades:MimeType>text/xml</xades:MimeType></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties><xades:UnsignedProperties Id="UnsignedProperties_81362e80-6b00-415f-ab6a-dd4121042421_55"/></xades:QualifyingProperties></ds:Object></ds:Signature></JednostkaMala>
